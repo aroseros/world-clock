@@ -1,0 +1,17 @@
+{
+  "name": "world-clock-extension",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "test:unit": "node --test tests/*.test.js",
+    "test:integration": "playwright test",
+    "test:all": "npm run test:unit && npm run test:integration",
+    "data:build": "node scripts/build-timezones.mjs",
+    "package": "node scripts/package-release.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}

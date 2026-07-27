@@ -1,0 +1,7 @@
+.worktrees/
+.superpowers/
+node_modules/
+test-results/
+playwright-report/
+
+world-clock-extension-v*.zip
