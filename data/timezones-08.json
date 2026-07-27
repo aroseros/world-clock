@@ -1,0 +1,340 @@
+[
+  {
+    "timezone": "Europe/Madrid",
+    "city": "Madrid",
+    "country": "Spain",
+    "countryCode": "ES",
+    "aliases": [
+      "Europe",
+      "Spain (mainland)"
+    ],
+    "searchText": "europe/madrid madrid spain es europe spain (mainland)"
+  },
+  {
+    "timezone": "Asia/Magadan",
+    "city": "Magadan",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+08 - Magadan"
+    ],
+    "searchText": "asia/magadan magadan russia ru asia msk+08 - magadan"
+  },
+  {
+    "timezone": "Indian/Mahe",
+    "city": "Mahe",
+    "country": "Seychelles",
+    "countryCode": "SC",
+    "aliases": [
+      "Indian"
+    ],
+    "searchText": "indian/mahe mahe seychelles sc indian"
+  },
+  {
+    "timezone": "Pacific/Majuro",
+    "city": "Majuro",
+    "country": "Marshall Islands",
+    "countryCode": "MH",
+    "aliases": [
+      "Pacific",
+      "most of Marshall Islands"
+    ],
+    "searchText": "pacific/majuro majuro marshall islands mh pacific most of marshall islands"
+  },
+  {
+    "timezone": "Asia/Makassar",
+    "city": "Makassar",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "aliases": [
+      "Asia",
+      "Borneo (east, south), Sulawesi/Celebes, Bali, Nusa Tengarra, Timor (west)"
+    ],
+    "searchText": "asia/makassar makassar indonesia id asia borneo (east, south), sulawesi/celebes, bali, nusa tengarra, timor (west)"
+  },
+  {
+    "timezone": "Africa/Malabo",
+    "city": "Malabo",
+    "country": "Equatorial Guinea",
+    "countryCode": "GQ",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/malabo malabo equatorial guinea gq africa"
+  },
+  {
+    "timezone": "Indian/Maldives",
+    "city": "Maldives",
+    "country": "Maldives",
+    "countryCode": "MV",
+    "aliases": [
+      "Indian"
+    ],
+    "searchText": "indian/maldives maldives maldives mv indian"
+  },
+  {
+    "timezone": "Europe/Malta",
+    "city": "Malta",
+    "country": "Malta",
+    "countryCode": "MT",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/malta malta malta mt europe"
+  },
+  {
+    "timezone": "America/Managua",
+    "city": "Managua",
+    "country": "Nicaragua",
+    "countryCode": "NI",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/managua managua nicaragua ni america"
+  },
+  {
+    "timezone": "America/Manaus",
+    "city": "Manaus",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Amazonas (east)"
+    ],
+    "searchText": "america/manaus manaus brazil br america amazonas (east)"
+  },
+  {
+    "timezone": "Asia/Manila",
+    "city": "Manila",
+    "country": "Philippines",
+    "countryCode": "PH",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/manila manila philippines ph asia"
+  },
+  {
+    "timezone": "Africa/Maputo",
+    "city": "Maputo",
+    "country": "Mozambique",
+    "countryCode": "MZ",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/maputo maputo mozambique mz africa"
+  },
+  {
+    "timezone": "America/Indiana/Marengo",
+    "city": "Marengo",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Eastern - IN (Crawford)"
+    ],
+    "searchText": "america/indiana/marengo marengo united states us america eastern - in (crawford)"
+  },
+  {
+    "timezone": "Europe/Mariehamn",
+    "city": "Mariehamn",
+    "country": "Åland Islands",
+    "countryCode": "AX",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/mariehamn mariehamn åland islands ax europe"
+  },
+  {
+    "timezone": "America/Marigot",
+    "city": "Marigot",
+    "country": "St. Martin",
+    "countryCode": "MF",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/marigot marigot st. martin mf america"
+  },
+  {
+    "timezone": "Pacific/Marquesas",
+    "city": "Marquesas",
+    "country": "French Polynesia",
+    "countryCode": "PF",
+    "aliases": [
+      "Pacific",
+      "Marquesas Islands"
+    ],
+    "searchText": "pacific/marquesas marquesas french polynesia pf pacific marquesas islands"
+  },
+  {
+    "timezone": "America/Martinique",
+    "city": "Martinique",
+    "country": "Martinique",
+    "countryCode": "MQ",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/martinique martinique martinique mq america"
+  },
+  {
+    "timezone": "Africa/Maseru",
+    "city": "Maseru",
+    "country": "Lesotho",
+    "countryCode": "LS",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/maseru maseru lesotho ls africa"
+  },
+  {
+    "timezone": "America/Matamoros",
+    "city": "Matamoros",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "aliases": [
+      "America",
+      "Coahuila, Nuevo Leon, Tamaulipas (US border)"
+    ],
+    "searchText": "america/matamoros matamoros mexico mx america coahuila, nuevo leon, tamaulipas (us border)"
+  },
+  {
+    "timezone": "Indian/Mauritius",
+    "city": "Mauritius",
+    "country": "Mauritius",
+    "countryCode": "MU",
+    "aliases": [
+      "Indian"
+    ],
+    "searchText": "indian/mauritius mauritius mauritius mu indian"
+  },
+  {
+    "timezone": "Antarctica/Mawson",
+    "city": "Mawson",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "aliases": [
+      "Antarctica",
+      "Mawson"
+    ],
+    "searchText": "antarctica/mawson mawson antarctica aq antarctica mawson"
+  },
+  {
+    "timezone": "Indian/Mayotte",
+    "city": "Mayotte",
+    "country": "Mayotte",
+    "countryCode": "YT",
+    "aliases": [
+      "Indian"
+    ],
+    "searchText": "indian/mayotte mayotte mayotte yt indian"
+  },
+  {
+    "timezone": "America/Mazatlan",
+    "city": "Mazatlan",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "aliases": [
+      "America",
+      "Baja California Sur, Nayarit (most areas), Sinaloa"
+    ],
+    "searchText": "america/mazatlan mazatlan mexico mx america baja california sur, nayarit (most areas), sinaloa"
+  },
+  {
+    "timezone": "Africa/Mbabane",
+    "city": "Mbabane",
+    "country": "Eswatini",
+    "countryCode": "SZ",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/mbabane mbabane eswatini sz africa"
+  },
+  {
+    "timezone": "Antarctica/McMurdo",
+    "city": "McMurdo",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "aliases": [
+      "Antarctica",
+      "New Zealand time - McMurdo, South Pole"
+    ],
+    "searchText": "antarctica/mcmurdo mcmurdo antarctica aq antarctica new zealand time - mcmurdo, south pole"
+  },
+  {
+    "timezone": "Australia/Melbourne",
+    "city": "Melbourne",
+    "country": "Australia",
+    "countryCode": "AU",
+    "aliases": [
+      "Australia",
+      "Victoria"
+    ],
+    "searchText": "australia/melbourne melbourne australia au australia victoria"
+  },
+  {
+    "timezone": "America/Argentina/Mendoza",
+    "city": "Mendoza",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "aliases": [
+      "America",
+      "Mendoza (MZ)"
+    ],
+    "searchText": "america/argentina/mendoza mendoza argentina ar america mendoza (mz)"
+  },
+  {
+    "timezone": "America/Menominee",
+    "city": "Menominee",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Central - MI (Wisconsin border)"
+    ],
+    "searchText": "america/menominee menominee united states us america central - mi (wisconsin border)"
+  },
+  {
+    "timezone": "America/Merida",
+    "city": "Merida",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "aliases": [
+      "America",
+      "Campeche, Yucatan"
+    ],
+    "searchText": "america/merida merida mexico mx america campeche, yucatan"
+  },
+  {
+    "timezone": "America/Metlakatla",
+    "city": "Metlakatla",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Alaska - Annette Island"
+    ],
+    "searchText": "america/metlakatla metlakatla united states us america alaska - annette island"
+  },
+  {
+    "timezone": "America/Mexico_City",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "aliases": [
+      "America",
+      "Central Mexico"
+    ],
+    "searchText": "america/mexico_city mexico city mexico mx america central mexico"
+  },
+  {
+    "timezone": "Pacific/Midway",
+    "city": "Midway",
+    "country": "U.S. Outlying Islands",
+    "countryCode": "UM",
+    "aliases": [
+      "Pacific",
+      "Midway Islands"
+    ],
+    "searchText": "pacific/midway midway u.s. outlying islands um pacific midway islands"
+  }
+]

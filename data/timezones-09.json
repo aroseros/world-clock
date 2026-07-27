@@ -1,0 +1,340 @@
+[
+  {
+    "timezone": "Europe/Minsk",
+    "city": "Minsk",
+    "country": "Belarus",
+    "countryCode": "BY",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/minsk minsk belarus by europe"
+  },
+  {
+    "timezone": "America/Miquelon",
+    "city": "Miquelon",
+    "country": "St. Pierre & Miquelon",
+    "countryCode": "PM",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/miquelon miquelon st. pierre & miquelon pm america"
+  },
+  {
+    "timezone": "Africa/Mogadishu",
+    "city": "Mogadishu",
+    "country": "Somalia",
+    "countryCode": "SO",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/mogadishu mogadishu somalia so africa"
+  },
+  {
+    "timezone": "Europe/Monaco",
+    "city": "Monaco",
+    "country": "Monaco",
+    "countryCode": "MC",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/monaco monaco monaco mc europe"
+  },
+  {
+    "timezone": "America/Moncton",
+    "city": "Moncton",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Atlantic - New Brunswick"
+    ],
+    "searchText": "america/moncton moncton canada ca america atlantic - new brunswick"
+  },
+  {
+    "timezone": "Africa/Monrovia",
+    "city": "Monrovia",
+    "country": "Liberia",
+    "countryCode": "LR",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/monrovia monrovia liberia lr africa"
+  },
+  {
+    "timezone": "America/Monterrey",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "aliases": [
+      "America",
+      "Durango; Coahuila, Nuevo Leon, Tamaulipas (most areas)"
+    ],
+    "searchText": "america/monterrey monterrey mexico mx america durango; coahuila, nuevo leon, tamaulipas (most areas)"
+  },
+  {
+    "timezone": "America/Montevideo",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "countryCode": "UY",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/montevideo montevideo uruguay uy america"
+  },
+  {
+    "timezone": "America/Kentucky/Monticello",
+    "city": "Monticello",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Eastern - KY (Wayne)"
+    ],
+    "searchText": "america/kentucky/monticello monticello united states us america eastern - ky (wayne)"
+  },
+  {
+    "timezone": "America/Montserrat",
+    "city": "Montserrat",
+    "country": "Montserrat",
+    "countryCode": "MS",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/montserrat montserrat montserrat ms america"
+  },
+  {
+    "timezone": "Europe/Moscow",
+    "city": "Moscow",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Europe",
+      "MSK+00 - Moscow area"
+    ],
+    "searchText": "europe/moscow moscow russia ru europe msk+00 - moscow area"
+  },
+  {
+    "timezone": "Asia/Muscat",
+    "city": "Muscat",
+    "country": "Oman",
+    "countryCode": "OM",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/muscat muscat oman om asia"
+  },
+  {
+    "timezone": "Africa/Nairobi",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "countryCode": "KE",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/nairobi nairobi kenya ke africa"
+  },
+  {
+    "timezone": "America/Nassau",
+    "city": "Nassau",
+    "country": "Bahamas",
+    "countryCode": "BS",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/nassau nassau bahamas bs america"
+  },
+  {
+    "timezone": "Pacific/Nauru",
+    "city": "Nauru",
+    "country": "Nauru",
+    "countryCode": "NR",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/nauru nauru nauru nr pacific"
+  },
+  {
+    "timezone": "Africa/Ndjamena",
+    "city": "Ndjamena",
+    "country": "Chad",
+    "countryCode": "TD",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/ndjamena ndjamena chad td africa"
+  },
+  {
+    "timezone": "America/North_Dakota/New_Salem",
+    "city": "New Salem",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Central - ND (Morton rural)"
+    ],
+    "searchText": "america/north_dakota/new_salem new salem united states us america central - nd (morton rural)"
+  },
+  {
+    "timezone": "America/New_York",
+    "city": "New York",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Eastern (most areas)",
+      "NYC",
+      "Eastern time",
+      "ET"
+    ],
+    "searchText": "america/new_york new york united states us america eastern (most areas) nyc eastern time et"
+  },
+  {
+    "timezone": "Africa/Niamey",
+    "city": "Niamey",
+    "country": "Niger",
+    "countryCode": "NE",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/niamey niamey niger ne africa"
+  },
+  {
+    "timezone": "Asia/Nicosia",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "aliases": [
+      "Asia",
+      "most of Cyprus"
+    ],
+    "searchText": "asia/nicosia nicosia cyprus cy asia most of cyprus"
+  },
+  {
+    "timezone": "Pacific/Niue",
+    "city": "Niue",
+    "country": "Niue",
+    "countryCode": "NU",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/niue niue niue nu pacific"
+  },
+  {
+    "timezone": "America/Nome",
+    "city": "Nome",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Alaska (west)"
+    ],
+    "searchText": "america/nome nome united states us america alaska (west)"
+  },
+  {
+    "timezone": "Pacific/Norfolk",
+    "city": "Norfolk",
+    "country": "Norfolk Island",
+    "countryCode": "NF",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/norfolk norfolk norfolk island nf pacific"
+  },
+  {
+    "timezone": "America/Noronha",
+    "city": "Noronha",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Atlantic islands"
+    ],
+    "searchText": "america/noronha noronha brazil br america atlantic islands"
+  },
+  {
+    "timezone": "Africa/Nouakchott",
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "countryCode": "MR",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/nouakchott nouakchott mauritania mr africa"
+  },
+  {
+    "timezone": "Pacific/Noumea",
+    "city": "Noumea",
+    "country": "New Caledonia",
+    "countryCode": "NC",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/noumea noumea new caledonia nc pacific"
+  },
+  {
+    "timezone": "Asia/Novokuznetsk",
+    "city": "Novokuznetsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+04 - Kemerovo"
+    ],
+    "searchText": "asia/novokuznetsk novokuznetsk russia ru asia msk+04 - kemerovo"
+  },
+  {
+    "timezone": "Asia/Novosibirsk",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+04 - Novosibirsk"
+    ],
+    "searchText": "asia/novosibirsk novosibirsk russia ru asia msk+04 - novosibirsk"
+  },
+  {
+    "timezone": "America/Nuuk",
+    "city": "Nuuk",
+    "country": "Greenland",
+    "countryCode": "GL",
+    "aliases": [
+      "America",
+      "most of Greenland"
+    ],
+    "searchText": "america/nuuk nuuk greenland gl america most of greenland"
+  },
+  {
+    "timezone": "America/Ojinaga",
+    "city": "Ojinaga",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "aliases": [
+      "America",
+      "Chihuahua (US border - east)"
+    ],
+    "searchText": "america/ojinaga ojinaga mexico mx america chihuahua (us border - east)"
+  },
+  {
+    "timezone": "Asia/Omsk",
+    "city": "Omsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+03 - Omsk"
+    ],
+    "searchText": "asia/omsk omsk russia ru asia msk+03 - omsk"
+  },
+  {
+    "timezone": "Asia/Oral",
+    "city": "Oral",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "aliases": [
+      "Asia",
+      "West Kazakhstan"
+    ],
+    "searchText": "asia/oral oral kazakhstan kz asia west kazakhstan"
+  }
+]

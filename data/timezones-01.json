@@ -1,0 +1,341 @@
+[
+  {
+    "timezone": "Africa/Abidjan",
+    "city": "Abidjan",
+    "country": "Côte d’Ivoire",
+    "countryCode": "CI",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/abidjan abidjan côte d’ivoire ci africa"
+  },
+  {
+    "timezone": "Africa/Accra",
+    "city": "Accra",
+    "country": "Ghana",
+    "countryCode": "GH",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/accra accra ghana gh africa"
+  },
+  {
+    "timezone": "America/Adak",
+    "city": "Adak",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Alaska - western Aleutians"
+    ],
+    "searchText": "america/adak adak united states us america alaska - western aleutians"
+  },
+  {
+    "timezone": "Africa/Addis_Ababa",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "countryCode": "ET",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/addis_ababa addis ababa ethiopia et africa"
+  },
+  {
+    "timezone": "Australia/Adelaide",
+    "city": "Adelaide",
+    "country": "Australia",
+    "countryCode": "AU",
+    "aliases": [
+      "Australia",
+      "South Australia"
+    ],
+    "searchText": "australia/adelaide adelaide australia au australia south australia"
+  },
+  {
+    "timezone": "Asia/Aden",
+    "city": "Aden",
+    "country": "Yemen",
+    "countryCode": "YE",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/aden aden yemen ye asia"
+  },
+  {
+    "timezone": "Africa/Algiers",
+    "city": "Algiers",
+    "country": "Algeria",
+    "countryCode": "DZ",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/algiers algiers algeria dz africa"
+  },
+  {
+    "timezone": "Asia/Almaty",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "aliases": [
+      "Asia",
+      "most of Kazakhstan"
+    ],
+    "searchText": "asia/almaty almaty kazakhstan kz asia most of kazakhstan"
+  },
+  {
+    "timezone": "Asia/Amman",
+    "city": "Amman",
+    "country": "Jordan",
+    "countryCode": "JO",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/amman amman jordan jo asia"
+  },
+  {
+    "timezone": "Europe/Amsterdam",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/amsterdam amsterdam netherlands nl europe"
+  },
+  {
+    "timezone": "Asia/Anadyr",
+    "city": "Anadyr",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+09 - Bering Sea"
+    ],
+    "searchText": "asia/anadyr anadyr russia ru asia msk+09 - bering sea"
+  },
+  {
+    "timezone": "America/Anchorage",
+    "city": "Anchorage",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Alaska (most areas)"
+    ],
+    "searchText": "america/anchorage anchorage united states us america alaska (most areas)"
+  },
+  {
+    "timezone": "Europe/Andorra",
+    "city": "Andorra",
+    "country": "Andorra",
+    "countryCode": "AD",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/andorra andorra andorra ad europe"
+  },
+  {
+    "timezone": "America/Anguilla",
+    "city": "Anguilla",
+    "country": "Anguilla",
+    "countryCode": "AI",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/anguilla anguilla anguilla ai america"
+  },
+  {
+    "timezone": "Indian/Antananarivo",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "countryCode": "MG",
+    "aliases": [
+      "Indian"
+    ],
+    "searchText": "indian/antananarivo antananarivo madagascar mg indian"
+  },
+  {
+    "timezone": "America/Antigua",
+    "city": "Antigua",
+    "country": "Antigua & Barbuda",
+    "countryCode": "AG",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/antigua antigua antigua & barbuda ag america"
+  },
+  {
+    "timezone": "Pacific/Apia",
+    "city": "Apia",
+    "country": "Samoa",
+    "countryCode": "WS",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/apia apia samoa ws pacific"
+  },
+  {
+    "timezone": "Asia/Aqtau",
+    "city": "Aqtau",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "aliases": [
+      "Asia",
+      "Mangghystau/Mankistau"
+    ],
+    "searchText": "asia/aqtau aqtau kazakhstan kz asia mangghystau/mankistau"
+  },
+  {
+    "timezone": "Asia/Aqtobe",
+    "city": "Aqtobe",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "aliases": [
+      "Asia",
+      "Aqtobe/Aktobe"
+    ],
+    "searchText": "asia/aqtobe aqtobe kazakhstan kz asia aqtobe/aktobe"
+  },
+  {
+    "timezone": "America/Araguaina",
+    "city": "Araguaina",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Tocantins"
+    ],
+    "searchText": "america/araguaina araguaina brazil br america tocantins"
+  },
+  {
+    "timezone": "America/Aruba",
+    "city": "Aruba",
+    "country": "Aruba",
+    "countryCode": "AW",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/aruba aruba aruba aw america"
+  },
+  {
+    "timezone": "Asia/Ashgabat",
+    "city": "Ashgabat",
+    "country": "Turkmenistan",
+    "countryCode": "TM",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/ashgabat ashgabat turkmenistan tm asia"
+  },
+  {
+    "timezone": "Africa/Asmara",
+    "city": "Asmara",
+    "country": "Eritrea",
+    "countryCode": "ER",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/asmara asmara eritrea er africa"
+  },
+  {
+    "timezone": "Europe/Astrakhan",
+    "city": "Astrakhan",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Europe",
+      "MSK+01 - Astrakhan"
+    ],
+    "searchText": "europe/astrakhan astrakhan russia ru europe msk+01 - astrakhan"
+  },
+  {
+    "timezone": "America/Asuncion",
+    "city": "Asuncion",
+    "country": "Paraguay",
+    "countryCode": "PY",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/asuncion asuncion paraguay py america"
+  },
+  {
+    "timezone": "Europe/Athens",
+    "city": "Athens",
+    "country": "Greece",
+    "countryCode": "GR",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/athens athens greece gr europe"
+  },
+  {
+    "timezone": "America/Atikokan",
+    "city": "Atikokan",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "EST - ON (Atikokan), NU (Coral H)"
+    ],
+    "searchText": "america/atikokan atikokan canada ca america est - on (atikokan), nu (coral h)"
+  },
+  {
+    "timezone": "Asia/Atyrau",
+    "city": "Atyrau",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "aliases": [
+      "Asia",
+      "Atyrau/Atirau/Gur'yev"
+    ],
+    "searchText": "asia/atyrau atyrau kazakhstan kz asia atyrau/atirau/gur'yev"
+  },
+  {
+    "timezone": "Pacific/Auckland",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "aliases": [
+      "Pacific",
+      "most of New Zealand"
+    ],
+    "searchText": "pacific/auckland auckland new zealand nz pacific most of new zealand"
+  },
+  {
+    "timezone": "Atlantic/Azores",
+    "city": "Azores",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "aliases": [
+      "Atlantic",
+      "Azores"
+    ],
+    "searchText": "atlantic/azores azores portugal pt atlantic azores"
+  },
+  {
+    "timezone": "Asia/Baghdad",
+    "city": "Baghdad",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "aliases": [
+      "Asia",
+      "Erbil",
+      "Arbil",
+      "Sulaymaniyah",
+      "Slemani",
+      "Iraq time"
+    ],
+    "searchText": "asia/baghdad baghdad iraq iq asia erbil arbil sulaymaniyah slemani iraq time"
+  },
+  {
+    "timezone": "America/Bahia",
+    "city": "Bahia",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Bahia"
+    ],
+    "searchText": "america/bahia bahia brazil br america bahia"
+  }
+]

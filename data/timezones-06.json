@@ -1,0 +1,340 @@
+[
+  {
+    "timezone": "Pacific/Honolulu",
+    "city": "Honolulu",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "Pacific",
+      "Hawaii"
+    ],
+    "searchText": "pacific/honolulu honolulu united states us pacific hawaii"
+  },
+  {
+    "timezone": "Asia/Hovd",
+    "city": "Hovd",
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "aliases": [
+      "Asia",
+      "Bayan-Olgii, Hovd, Uvs"
+    ],
+    "searchText": "asia/hovd hovd mongolia mn asia bayan-olgii, hovd, uvs"
+  },
+  {
+    "timezone": "America/Indiana/Indianapolis",
+    "city": "Indianapolis",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Eastern - IN (most areas)"
+    ],
+    "searchText": "america/indiana/indianapolis indianapolis united states us america eastern - in (most areas)"
+  },
+  {
+    "timezone": "America/Inuvik",
+    "city": "Inuvik",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Mountain - NT (west)"
+    ],
+    "searchText": "america/inuvik inuvik canada ca america mountain - nt (west)"
+  },
+  {
+    "timezone": "America/Iqaluit",
+    "city": "Iqaluit",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Eastern - NU (most areas)"
+    ],
+    "searchText": "america/iqaluit iqaluit canada ca america eastern - nu (most areas)"
+  },
+  {
+    "timezone": "Asia/Irkutsk",
+    "city": "Irkutsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+05 - Irkutsk, Buryatia"
+    ],
+    "searchText": "asia/irkutsk irkutsk russia ru asia msk+05 - irkutsk, buryatia"
+  },
+  {
+    "timezone": "Europe/Isle_of_Man",
+    "city": "Isle of Man",
+    "country": "Isle of Man",
+    "countryCode": "IM",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/isle_of_man isle of man isle of man im europe"
+  },
+  {
+    "timezone": "Europe/Istanbul",
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/istanbul istanbul türkiye tr europe"
+  },
+  {
+    "timezone": "Asia/Jakarta",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "aliases": [
+      "Asia",
+      "Java, Sumatra"
+    ],
+    "searchText": "asia/jakarta jakarta indonesia id asia java, sumatra"
+  },
+  {
+    "timezone": "America/Jamaica",
+    "city": "Jamaica",
+    "country": "Jamaica",
+    "countryCode": "JM",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/jamaica jamaica jamaica jm america"
+  },
+  {
+    "timezone": "Asia/Jayapura",
+    "city": "Jayapura",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "aliases": [
+      "Asia",
+      "New Guinea (West Papua / Irian Jaya), Malukus/Moluccas"
+    ],
+    "searchText": "asia/jayapura jayapura indonesia id asia new guinea (west papua / irian jaya), malukus/moluccas"
+  },
+  {
+    "timezone": "Europe/Jersey",
+    "city": "Jersey",
+    "country": "Jersey",
+    "countryCode": "JE",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/jersey jersey jersey je europe"
+  },
+  {
+    "timezone": "Asia/Jerusalem",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "countryCode": "IL",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/jerusalem jerusalem israel il asia"
+  },
+  {
+    "timezone": "Africa/Johannesburg",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/johannesburg johannesburg south africa za africa"
+  },
+  {
+    "timezone": "Africa/Juba",
+    "city": "Juba",
+    "country": "South Sudan",
+    "countryCode": "SS",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/juba juba south sudan ss africa"
+  },
+  {
+    "timezone": "America/Argentina/Jujuy",
+    "city": "Jujuy",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "aliases": [
+      "America",
+      "Jujuy (JY)"
+    ],
+    "searchText": "america/argentina/jujuy jujuy argentina ar america jujuy (jy)"
+  },
+  {
+    "timezone": "America/Juneau",
+    "city": "Juneau",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Alaska - Juneau area"
+    ],
+    "searchText": "america/juneau juneau united states us america alaska - juneau area"
+  },
+  {
+    "timezone": "Asia/Kabul",
+    "city": "Kabul",
+    "country": "Afghanistan",
+    "countryCode": "AF",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/kabul kabul afghanistan af asia"
+  },
+  {
+    "timezone": "Europe/Kaliningrad",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Europe",
+      "MSK-01 - Kaliningrad"
+    ],
+    "searchText": "europe/kaliningrad kaliningrad russia ru europe msk-01 - kaliningrad"
+  },
+  {
+    "timezone": "Asia/Kamchatka",
+    "city": "Kamchatka",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+09 - Kamchatka"
+    ],
+    "searchText": "asia/kamchatka kamchatka russia ru asia msk+09 - kamchatka"
+  },
+  {
+    "timezone": "Africa/Kampala",
+    "city": "Kampala",
+    "country": "Uganda",
+    "countryCode": "UG",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/kampala kampala uganda ug africa"
+  },
+  {
+    "timezone": "Pacific/Kanton",
+    "city": "Kanton",
+    "country": "Kiribati",
+    "countryCode": "KI",
+    "aliases": [
+      "Pacific",
+      "Phoenix Islands"
+    ],
+    "searchText": "pacific/kanton kanton kiribati ki pacific phoenix islands"
+  },
+  {
+    "timezone": "Asia/Karachi",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/karachi karachi pakistan pk asia"
+  },
+  {
+    "timezone": "Asia/Kathmandu",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "countryCode": "NP",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/kathmandu kathmandu nepal np asia"
+  },
+  {
+    "timezone": "Indian/Kerguelen",
+    "city": "Kerguelen",
+    "country": "French Southern Territories",
+    "countryCode": "TF",
+    "aliases": [
+      "Indian"
+    ],
+    "searchText": "indian/kerguelen kerguelen french southern territories tf indian"
+  },
+  {
+    "timezone": "Asia/Khandyga",
+    "city": "Khandyga",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+06 - Tomponsky, Ust-Maysky"
+    ],
+    "searchText": "asia/khandyga khandyga russia ru asia msk+06 - tomponsky, ust-maysky"
+  },
+  {
+    "timezone": "Africa/Khartoum",
+    "city": "Khartoum",
+    "country": "Sudan",
+    "countryCode": "SD",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/khartoum khartoum sudan sd africa"
+  },
+  {
+    "timezone": "Africa/Kigali",
+    "city": "Kigali",
+    "country": "Rwanda",
+    "countryCode": "RW",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/kigali kigali rwanda rw africa"
+  },
+  {
+    "timezone": "Africa/Kinshasa",
+    "city": "Kinshasa",
+    "country": "Congo - Kinshasa",
+    "countryCode": "CD",
+    "aliases": [
+      "Africa",
+      "Dem. Rep. of Congo (west)"
+    ],
+    "searchText": "africa/kinshasa kinshasa congo - kinshasa cd africa dem. rep. of congo (west)"
+  },
+  {
+    "timezone": "Pacific/Kiritimati",
+    "city": "Kiritimati",
+    "country": "Kiribati",
+    "countryCode": "KI",
+    "aliases": [
+      "Pacific",
+      "Line Islands"
+    ],
+    "searchText": "pacific/kiritimati kiritimati kiribati ki pacific line islands"
+  },
+  {
+    "timezone": "Europe/Kirov",
+    "city": "Kirov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Europe",
+      "MSK+00 - Kirov"
+    ],
+    "searchText": "europe/kirov kirov russia ru europe msk+00 - kirov"
+  },
+  {
+    "timezone": "America/Indiana/Knox",
+    "city": "Knox",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Central - IN (Starke)"
+    ],
+    "searchText": "america/indiana/knox knox united states us america central - in (starke)"
+  }
+]

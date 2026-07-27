@@ -1,0 +1,335 @@
+[
+  {
+    "timezone": "Asia/Famagusta",
+    "city": "Famagusta",
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "aliases": [
+      "Asia",
+      "Northern Cyprus"
+    ],
+    "searchText": "asia/famagusta famagusta cyprus cy asia northern cyprus"
+  },
+  {
+    "timezone": "Atlantic/Faroe",
+    "city": "Faroe",
+    "country": "Faroe Islands",
+    "countryCode": "FO",
+    "aliases": [
+      "Atlantic"
+    ],
+    "searchText": "atlantic/faroe faroe faroe islands fo atlantic"
+  },
+  {
+    "timezone": "Pacific/Fiji",
+    "city": "Fiji",
+    "country": "Fiji",
+    "countryCode": "FJ",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/fiji fiji fiji fj pacific"
+  },
+  {
+    "timezone": "America/Fort_Nelson",
+    "city": "Fort Nelson",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "MST - BC (Ft Nelson)"
+    ],
+    "searchText": "america/fort_nelson fort nelson canada ca america mst - bc (ft nelson)"
+  },
+  {
+    "timezone": "America/Fortaleza",
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Brazil (northeast: MA, PI, CE, RN, PB)"
+    ],
+    "searchText": "america/fortaleza fortaleza brazil br america brazil (northeast: ma, pi, ce, rn, pb)"
+  },
+  {
+    "timezone": "Africa/Freetown",
+    "city": "Freetown",
+    "country": "Sierra Leone",
+    "countryCode": "SL",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/freetown freetown sierra leone sl africa"
+  },
+  {
+    "timezone": "Pacific/Funafuti",
+    "city": "Funafuti",
+    "country": "Tuvalu",
+    "countryCode": "TV",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/funafuti funafuti tuvalu tv pacific"
+  },
+  {
+    "timezone": "Africa/Gaborone",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "countryCode": "BW",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/gaborone gaborone botswana bw africa"
+  },
+  {
+    "timezone": "Pacific/Galapagos",
+    "city": "Galapagos",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "aliases": [
+      "Pacific",
+      "Galapagos Islands"
+    ],
+    "searchText": "pacific/galapagos galapagos ecuador ec pacific galapagos islands"
+  },
+  {
+    "timezone": "Pacific/Gambier",
+    "city": "Gambier",
+    "country": "French Polynesia",
+    "countryCode": "PF",
+    "aliases": [
+      "Pacific",
+      "Gambier Islands"
+    ],
+    "searchText": "pacific/gambier gambier french polynesia pf pacific gambier islands"
+  },
+  {
+    "timezone": "Asia/Gaza",
+    "city": "Gaza",
+    "country": "Palestinian Territories",
+    "countryCode": "PS",
+    "aliases": [
+      "Asia",
+      "Gaza Strip"
+    ],
+    "searchText": "asia/gaza gaza palestinian territories ps asia gaza strip"
+  },
+  {
+    "timezone": "Europe/Gibraltar",
+    "city": "Gibraltar",
+    "country": "Gibraltar",
+    "countryCode": "GI",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/gibraltar gibraltar gibraltar gi europe"
+  },
+  {
+    "timezone": "America/Glace_Bay",
+    "city": "Glace Bay",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Atlantic - NS (Cape Breton)"
+    ],
+    "searchText": "america/glace_bay glace bay canada ca america atlantic - ns (cape breton)"
+  },
+  {
+    "timezone": "America/Goose_Bay",
+    "city": "Goose Bay",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Atlantic - Labrador (most areas)"
+    ],
+    "searchText": "america/goose_bay goose bay canada ca america atlantic - labrador (most areas)"
+  },
+  {
+    "timezone": "America/Grand_Turk",
+    "city": "Grand Turk",
+    "country": "Turks & Caicos Islands",
+    "countryCode": "TC",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/grand_turk grand turk turks & caicos islands tc america"
+  },
+  {
+    "timezone": "America/Grenada",
+    "city": "Grenada",
+    "country": "Grenada",
+    "countryCode": "GD",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/grenada grenada grenada gd america"
+  },
+  {
+    "timezone": "Pacific/Guadalcanal",
+    "city": "Guadalcanal",
+    "country": "Solomon Islands",
+    "countryCode": "SB",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/guadalcanal guadalcanal solomon islands sb pacific"
+  },
+  {
+    "timezone": "America/Guadeloupe",
+    "city": "Guadeloupe",
+    "country": "Guadeloupe",
+    "countryCode": "GP",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/guadeloupe guadeloupe guadeloupe gp america"
+  },
+  {
+    "timezone": "Pacific/Guam",
+    "city": "Guam",
+    "country": "Guam",
+    "countryCode": "GU",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/guam guam guam gu pacific"
+  },
+  {
+    "timezone": "America/Guatemala",
+    "city": "Guatemala",
+    "country": "Guatemala",
+    "countryCode": "GT",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/guatemala guatemala guatemala gt america"
+  },
+  {
+    "timezone": "America/Guayaquil",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "aliases": [
+      "America",
+      "Ecuador (mainland)"
+    ],
+    "searchText": "america/guayaquil guayaquil ecuador ec america ecuador (mainland)"
+  },
+  {
+    "timezone": "Europe/Guernsey",
+    "city": "Guernsey",
+    "country": "Guernsey",
+    "countryCode": "GG",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/guernsey guernsey guernsey gg europe"
+  },
+  {
+    "timezone": "America/Guyana",
+    "city": "Guyana",
+    "country": "Guyana",
+    "countryCode": "GY",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/guyana guyana guyana gy america"
+  },
+  {
+    "timezone": "America/Halifax",
+    "city": "Halifax",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Atlantic - NS (most areas), PE"
+    ],
+    "searchText": "america/halifax halifax canada ca america atlantic - ns (most areas), pe"
+  },
+  {
+    "timezone": "Africa/Harare",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "countryCode": "ZW",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/harare harare zimbabwe zw africa"
+  },
+  {
+    "timezone": "America/Havana",
+    "city": "Havana",
+    "country": "Cuba",
+    "countryCode": "CU",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/havana havana cuba cu america"
+  },
+  {
+    "timezone": "Asia/Hebron",
+    "city": "Hebron",
+    "country": "Palestinian Territories",
+    "countryCode": "PS",
+    "aliases": [
+      "Asia",
+      "West Bank"
+    ],
+    "searchText": "asia/hebron hebron palestinian territories ps asia west bank"
+  },
+  {
+    "timezone": "Europe/Helsinki",
+    "city": "Helsinki",
+    "country": "Finland",
+    "countryCode": "FI",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/helsinki helsinki finland fi europe"
+  },
+  {
+    "timezone": "America/Hermosillo",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "aliases": [
+      "America",
+      "Sonora"
+    ],
+    "searchText": "america/hermosillo hermosillo mexico mx america sonora"
+  },
+  {
+    "timezone": "Asia/Ho_Chi_Minh",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/ho_chi_minh ho chi minh vietnam vn asia"
+  },
+  {
+    "timezone": "Australia/Hobart",
+    "city": "Hobart",
+    "country": "Australia",
+    "countryCode": "AU",
+    "aliases": [
+      "Australia",
+      "Tasmania"
+    ],
+    "searchText": "australia/hobart hobart australia au australia tasmania"
+  },
+  {
+    "timezone": "Asia/Hong_Kong",
+    "city": "Hong Kong",
+    "country": "Hong Kong SAR China",
+    "countryCode": "HK",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/hong_kong hong kong hong kong sar china hk asia"
+  }
+]

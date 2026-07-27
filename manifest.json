@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "World Clock",
+  "description": "View synchronized world clocks and convert time across timezones.",
+  "version": "1.0.0",
+  "minimum_chrome_version": "116",
+  "permissions": ["storage", "sidePanel"],
+  "background": {
+    "service_worker": "background/service-worker.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "Open World Clock",
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "assets/icons/icon16.png",
+      "32": "assets/icons/icon32.png"
+    }
+  },
+  "side_panel": {
+    "default_path": "sidepanel/sidepanel.html"
+  },
+  "icons": {
+    "16": "assets/icons/icon16.png",
+    "32": "assets/icons/icon32.png",
+    "48": "assets/icons/icon48.png",
+    "128": "assets/icons/icon128.png"
+  }
+}

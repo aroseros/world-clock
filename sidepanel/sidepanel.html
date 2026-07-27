@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>World Clock Side Panel</title>
+    <link rel="stylesheet" href="../shared/shared.css" />
+    <link rel="stylesheet" href="./sidepanel.css" />
+  </head>
+  <body class="sidepanel-page">
+    <main class="app-shell" id="app" aria-busy="true">
+      <header class="toolbar">
+        <div><p class="eyebrow">WORLD CLOCK</p><h1>Time zones</h1></div>
+      </header>
+      <div id="warning-region" aria-live="polite" hidden></div>
+      <nav class="panel-tabs" aria-label="World Clock sections" role="tablist">
+        <button id="clocks-tab" type="button" role="tab" data-tab="clocks" aria-controls="clocks-panel" aria-selected="true" tabindex="0">Clocks</button>
+        <button id="converter-tab" type="button" role="tab" data-tab="converter" aria-controls="converter-panel" aria-selected="false" tabindex="-1">Converter</button>
+        <button id="settings-tab" type="button" role="tab" data-tab="settings" aria-controls="settings-panel" aria-selected="false" tabindex="-1">Settings</button>
+      </nav>
+      <section id="clocks-panel" role="tabpanel" aria-labelledby="clocks-tab" data-panel="clocks">
+        <div class="section-toolbar">
+          <div><h2>Saved locations</h2><p id="location-count" class="section-copy"></p></div>
+          <button id="add-location" class="primary-button" type="button">Add location</button>
+        </div>
+        <div id="clock-list" class="clock-grid" aria-label="Saved world clocks"></div>
+      </section>
+      <section id="converter-panel" role="tabpanel" aria-labelledby="converter-tab" data-panel="converter" hidden></section>
+      <section id="settings-panel" role="tabpanel" aria-labelledby="settings-tab" data-panel="settings" hidden></section>
+      <p id="reorder-announcer" class="sr-only live-announcer" aria-live="polite"></p>
+    </main>
+    <div id="overlay-root"></div>
+    <div id="toast-root"></div>
+    <script type="module" src="./sidepanel.js"></script>
+  </body>
+</html>

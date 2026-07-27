@@ -1,0 +1,339 @@
+[
+  {
+    "timezone": "America/Argentina/Buenos_Aires",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "aliases": [
+      "America",
+      "Buenos Aires (BA, CF)"
+    ],
+    "searchText": "america/argentina/buenos_aires buenos aires argentina ar america buenos aires (ba, cf)"
+  },
+  {
+    "timezone": "Africa/Bujumbura",
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "countryCode": "BI",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/bujumbura bujumbura burundi bi africa"
+  },
+  {
+    "timezone": "Europe/Busingen",
+    "city": "Busingen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "aliases": [
+      "Europe",
+      "Busingen"
+    ],
+    "searchText": "europe/busingen busingen germany de europe busingen"
+  },
+  {
+    "timezone": "Africa/Cairo",
+    "city": "Cairo",
+    "country": "Egypt",
+    "countryCode": "EG",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/cairo cairo egypt eg africa"
+  },
+  {
+    "timezone": "America/Cambridge_Bay",
+    "city": "Cambridge Bay",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Mountain - NU (west)"
+    ],
+    "searchText": "america/cambridge_bay cambridge bay canada ca america mountain - nu (west)"
+  },
+  {
+    "timezone": "America/Campo_Grande",
+    "city": "Campo Grande",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Mato Grosso do Sul"
+    ],
+    "searchText": "america/campo_grande campo grande brazil br america mato grosso do sul"
+  },
+  {
+    "timezone": "Atlantic/Canary",
+    "city": "Canary",
+    "country": "Spain",
+    "countryCode": "ES",
+    "aliases": [
+      "Atlantic",
+      "Canary Islands"
+    ],
+    "searchText": "atlantic/canary canary spain es atlantic canary islands"
+  },
+  {
+    "timezone": "America/Cancun",
+    "city": "Cancun",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "aliases": [
+      "America",
+      "Quintana Roo"
+    ],
+    "searchText": "america/cancun cancun mexico mx america quintana roo"
+  },
+  {
+    "timezone": "Atlantic/Cape_Verde",
+    "city": "Cape Verde",
+    "country": "Cape Verde",
+    "countryCode": "CV",
+    "aliases": [
+      "Atlantic"
+    ],
+    "searchText": "atlantic/cape_verde cape verde cape verde cv atlantic"
+  },
+  {
+    "timezone": "America/Caracas",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/caracas caracas venezuela ve america"
+  },
+  {
+    "timezone": "Africa/Casablanca",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/casablanca casablanca morocco ma africa"
+  },
+  {
+    "timezone": "Antarctica/Casey",
+    "city": "Casey",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "aliases": [
+      "Antarctica",
+      "Casey"
+    ],
+    "searchText": "antarctica/casey casey antarctica aq antarctica casey"
+  },
+  {
+    "timezone": "America/Argentina/Catamarca",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "aliases": [
+      "America",
+      "Catamarca (CT), Chubut (CH)"
+    ],
+    "searchText": "america/argentina/catamarca catamarca argentina ar america catamarca (ct), chubut (ch)"
+  },
+  {
+    "timezone": "America/Cayenne",
+    "city": "Cayenne",
+    "country": "French Guiana",
+    "countryCode": "GF",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/cayenne cayenne french guiana gf america"
+  },
+  {
+    "timezone": "America/Cayman",
+    "city": "Cayman",
+    "country": "Cayman Islands",
+    "countryCode": "KY",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/cayman cayman cayman islands ky america"
+  },
+  {
+    "timezone": "America/North_Dakota/Center",
+    "city": "Center",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Central - ND (Oliver)"
+    ],
+    "searchText": "america/north_dakota/center center united states us america central - nd (oliver)"
+  },
+  {
+    "timezone": "Africa/Ceuta",
+    "city": "Ceuta",
+    "country": "Spain",
+    "countryCode": "ES",
+    "aliases": [
+      "Africa",
+      "Ceuta, Melilla"
+    ],
+    "searchText": "africa/ceuta ceuta spain es africa ceuta, melilla"
+  },
+  {
+    "timezone": "Indian/Chagos",
+    "city": "Chagos",
+    "country": "British Indian Ocean Territory",
+    "countryCode": "IO",
+    "aliases": [
+      "Indian"
+    ],
+    "searchText": "indian/chagos chagos british indian ocean territory io indian"
+  },
+  {
+    "timezone": "Pacific/Chatham",
+    "city": "Chatham",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "aliases": [
+      "Pacific",
+      "Chatham Islands"
+    ],
+    "searchText": "pacific/chatham chatham new zealand nz pacific chatham islands"
+  },
+  {
+    "timezone": "America/Chicago",
+    "city": "Chicago",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Central (most areas)"
+    ],
+    "searchText": "america/chicago chicago united states us america central (most areas)"
+  },
+  {
+    "timezone": "America/Chihuahua",
+    "city": "Chihuahua",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "aliases": [
+      "America",
+      "Chihuahua (most areas)"
+    ],
+    "searchText": "america/chihuahua chihuahua mexico mx america chihuahua (most areas)"
+  },
+  {
+    "timezone": "Europe/Chisinau",
+    "city": "Chisinau",
+    "country": "Moldova",
+    "countryCode": "MD",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/chisinau chisinau moldova md europe"
+  },
+  {
+    "timezone": "Asia/Chita",
+    "city": "Chita",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+06 - Zabaykalsky"
+    ],
+    "searchText": "asia/chita chita russia ru asia msk+06 - zabaykalsky"
+  },
+  {
+    "timezone": "Indian/Christmas",
+    "city": "Christmas",
+    "country": "Christmas Island",
+    "countryCode": "CX",
+    "aliases": [
+      "Indian"
+    ],
+    "searchText": "indian/christmas christmas christmas island cx indian"
+  },
+  {
+    "timezone": "Pacific/Chuuk",
+    "city": "Chuuk",
+    "country": "Micronesia",
+    "countryCode": "FM",
+    "aliases": [
+      "Pacific",
+      "Chuuk/Truk, Yap"
+    ],
+    "searchText": "pacific/chuuk chuuk micronesia fm pacific chuuk/truk, yap"
+  },
+  {
+    "timezone": "America/Ciudad_Juarez",
+    "city": "Ciudad Juarez",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "aliases": [
+      "America",
+      "Chihuahua (US border - west)"
+    ],
+    "searchText": "america/ciudad_juarez ciudad juarez mexico mx america chihuahua (us border - west)"
+  },
+  {
+    "timezone": "Indian/Cocos",
+    "city": "Cocos",
+    "country": "Cocos (Keeling) Islands",
+    "countryCode": "CC",
+    "aliases": [
+      "Indian"
+    ],
+    "searchText": "indian/cocos cocos cocos (keeling) islands cc indian"
+  },
+  {
+    "timezone": "Asia/Colombo",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "countryCode": "LK",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/colombo colombo sri lanka lk asia"
+  },
+  {
+    "timezone": "Indian/Comoro",
+    "city": "Comoro",
+    "country": "Comoros",
+    "countryCode": "KM",
+    "aliases": [
+      "Indian"
+    ],
+    "searchText": "indian/comoro comoro comoros km indian"
+  },
+  {
+    "timezone": "Africa/Conakry",
+    "city": "Conakry",
+    "country": "Guinea",
+    "countryCode": "GN",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/conakry conakry guinea gn africa"
+  },
+  {
+    "timezone": "Europe/Copenhagen",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/copenhagen copenhagen denmark dk europe"
+  },
+  {
+    "timezone": "America/Argentina/Cordoba",
+    "city": "Cordoba",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "aliases": [
+      "America",
+      "Argentina (most areas: CB, CC, CN, ER, FM, MN, SE, SF)"
+    ],
+    "searchText": "america/argentina/cordoba cordoba argentina ar america argentina (most areas: cb, cc, cn, er, fm, mn, se, sf)"
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "timezone": "Europe/Oslo",
+    "city": "Oslo",
+    "country": "Norway",
+    "countryCode": "NO",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/oslo oslo norway no europe"
+  },
+  {
+    "timezone": "Africa/Ouagadougou",
+    "city": "Ouagadougou",
+    "country": "Burkina Faso",
+    "countryCode": "BF",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/ouagadougou ouagadougou burkina faso bf africa"
+  },
+  {
+    "timezone": "Pacific/Pago_Pago",
+    "city": "Pago Pago",
+    "country": "American Samoa",
+    "countryCode": "AS",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/pago_pago pago pago american samoa as pacific"
+  },
+  {
+    "timezone": "Pacific/Palau",
+    "city": "Palau",
+    "country": "Palau",
+    "countryCode": "PW",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/palau palau palau pw pacific"
+  },
+  {
+    "timezone": "Antarctica/Palmer",
+    "city": "Palmer",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "aliases": [
+      "Antarctica",
+      "Palmer"
+    ],
+    "searchText": "antarctica/palmer palmer antarctica aq antarctica palmer"
+  },
+  {
+    "timezone": "America/Panama",
+    "city": "Panama",
+    "country": "Panama",
+    "countryCode": "PA",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/panama panama panama pa america"
+  },
+  {
+    "timezone": "America/Paramaribo",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "countryCode": "SR",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/paramaribo paramaribo suriname sr america"
+  },
+  {
+    "timezone": "Europe/Paris",
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/paris paris france fr europe"
+  },
+  {
+    "timezone": "Australia/Perth",
+    "city": "Perth",
+    "country": "Australia",
+    "countryCode": "AU",
+    "aliases": [
+      "Australia",
+      "Western Australia (most areas)"
+    ],
+    "searchText": "australia/perth perth australia au australia western australia (most areas)"
+  },
+  {
+    "timezone": "America/Indiana/Petersburg",
+    "city": "Petersburg",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Eastern - IN (Pike)"
+    ],
+    "searchText": "america/indiana/petersburg petersburg united states us america eastern - in (pike)"
+  },
+  {
+    "timezone": "Asia/Phnom_Penh",
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "countryCode": "KH",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/phnom_penh phnom penh cambodia kh asia"
+  },
+  {
+    "timezone": "America/Phoenix",
+    "city": "Phoenix",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "MST - AZ (except Navajo)"
+    ],
+    "searchText": "america/phoenix phoenix united states us america mst - az (except navajo)"
+  },
+  {
+    "timezone": "Pacific/Pitcairn",
+    "city": "Pitcairn",
+    "country": "Pitcairn Islands",
+    "countryCode": "PN",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/pitcairn pitcairn pitcairn islands pn pacific"
+  },
+  {
+    "timezone": "Europe/Podgorica",
+    "city": "Podgorica",
+    "country": "Montenegro",
+    "countryCode": "ME",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/podgorica podgorica montenegro me europe"
+  },
+  {
+    "timezone": "Pacific/Pohnpei",
+    "city": "Pohnpei",
+    "country": "Micronesia",
+    "countryCode": "FM",
+    "aliases": [
+      "Pacific",
+      "Pohnpei/Ponape"
+    ],
+    "searchText": "pacific/pohnpei pohnpei micronesia fm pacific pohnpei/ponape"
+  },
+  {
+    "timezone": "Asia/Pontianak",
+    "city": "Pontianak",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "aliases": [
+      "Asia",
+      "Borneo (west, central)"
+    ],
+    "searchText": "asia/pontianak pontianak indonesia id asia borneo (west, central)"
+  },
+  {
+    "timezone": "Pacific/Port_Moresby",
+    "city": "Port Moresby",
+    "country": "Papua New Guinea",
+    "countryCode": "PG",
+    "aliases": [
+      "Pacific",
+      "most of Papua New Guinea"
+    ],
+    "searchText": "pacific/port_moresby port moresby papua new guinea pg pacific most of papua new guinea"
+  },
+  {
+    "timezone": "America/Port_of_Spain",
+    "city": "Port of Spain",
+    "country": "Trinidad & Tobago",
+    "countryCode": "TT",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/port_of_spain port of spain trinidad & tobago tt america"
+  },
+  {
+    "timezone": "America/Port-au-Prince",
+    "city": "Port-au-Prince",
+    "country": "Haiti",
+    "countryCode": "HT",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/port-au-prince port-au-prince haiti ht america"
+  },
+  {
+    "timezone": "America/Porto_Velho",
+    "city": "Porto Velho",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Rondonia"
+    ],
+    "searchText": "america/porto_velho porto velho brazil br america rondonia"
+  },
+  {
+    "timezone": "Africa/Porto-Novo",
+    "city": "Porto-Novo",
+    "country": "Benin",
+    "countryCode": "BJ",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/porto-novo porto-novo benin bj africa"
+  },
+  {
+    "timezone": "Europe/Prague",
+    "city": "Prague",
+    "country": "Czechia",
+    "countryCode": "CZ",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/prague prague czechia cz europe"
+  },
+  {
+    "timezone": "America/Puerto_Rico",
+    "city": "Puerto Rico",
+    "country": "Puerto Rico",
+    "countryCode": "PR",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/puerto_rico puerto rico puerto rico pr america"
+  },
+  {
+    "timezone": "America/Punta_Arenas",
+    "city": "Punta Arenas",
+    "country": "Chile",
+    "countryCode": "CL",
+    "aliases": [
+      "America",
+      "Magallanes Region"
+    ],
+    "searchText": "america/punta_arenas punta arenas chile cl america magallanes region"
+  },
+  {
+    "timezone": "Asia/Pyongyang",
+    "city": "Pyongyang",
+    "country": "North Korea",
+    "countryCode": "KP",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/pyongyang pyongyang north korea kp asia"
+  },
+  {
+    "timezone": "Asia/Qatar",
+    "city": "Qatar",
+    "country": "Qatar",
+    "countryCode": "QA",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/qatar qatar qatar qa asia"
+  },
+  {
+    "timezone": "Asia/Qostanay",
+    "city": "Qostanay",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "aliases": [
+      "Asia",
+      "Qostanay/Kostanay/Kustanay"
+    ],
+    "searchText": "asia/qostanay qostanay kazakhstan kz asia qostanay/kostanay/kustanay"
+  },
+  {
+    "timezone": "Asia/Qyzylorda",
+    "city": "Qyzylorda",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "aliases": [
+      "Asia",
+      "Qyzylorda/Kyzylorda/Kzyl-Orda"
+    ],
+    "searchText": "asia/qyzylorda qyzylorda kazakhstan kz asia qyzylorda/kyzylorda/kzyl-orda"
+  },
+  {
+    "timezone": "America/Rankin_Inlet",
+    "city": "Rankin Inlet",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Central - NU (central)"
+    ],
+    "searchText": "america/rankin_inlet rankin inlet canada ca america central - nu (central)"
+  },
+  {
+    "timezone": "Pacific/Rarotonga",
+    "city": "Rarotonga",
+    "country": "Cook Islands",
+    "countryCode": "CK",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/rarotonga rarotonga cook islands ck pacific"
+  },
+  {
+    "timezone": "America/Recife",
+    "city": "Recife",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Pernambuco"
+    ],
+    "searchText": "america/recife recife brazil br america pernambuco"
+  },
+  {
+    "timezone": "America/Regina",
+    "city": "Regina",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "CST - SK (most areas)"
+    ],
+    "searchText": "america/regina regina canada ca america cst - sk (most areas)"
+  }
+]

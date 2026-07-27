@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Set up World Clock</title>
+    <link rel="stylesheet" href="../shared/shared.css" />
+    <link rel="stylesheet" href="./onboarding.css" />
+  </head>
+  <body class="onboarding-page">
+    <main class="onboarding-shell glass" id="app" aria-busy="true">
+      <header class="onboarding-header">
+        <div><p class="eyebrow">WORLD CLOCK</p><h1>Set up your clocks</h1></div>
+        <p id="step-indicator" class="step-indicator">Step 1 of 4</p>
+      </header>
+      <div class="progress-track" aria-hidden="true"><span id="progress-bar"></span></div>
+      <div id="error-region" class="error-banner" role="alert" hidden></div>
+
+      <form id="onboarding-form">
+        <fieldset data-step="0">
+          <legend>Confirm your local timezone</legend>
+          <p class="step-copy">We use your browser timezone only. No location permission or network request is needed.</p>
+          <article id="local-timezone-card" class="choice-card selected"></article>
+        </fieldset>
+
+        <fieldset data-step="1" hidden>
+          <legend>Choose more locations</legend>
+          <p class="step-copy">Search by city, country, alias, or IANA timezone. You can change this later.</p>
+          <div id="selected-locations" class="selected-locations"></div>
+          <button id="add-onboarding-location" class="secondary-button" type="button">Add another location</button>
+        </fieldset>
+
+        <fieldset data-step="2" hidden>
+          <legend>Choose your time format</legend>
+          <div class="choice-grid">
+            <label class="choice-card"><input type="radio" name="time-format" value="24h" checked /><span><strong>24-hour</strong><small>18:45</small></span></label>
+            <label class="choice-card"><input type="radio" name="time-format" value="12h" /><span><strong>12-hour</strong><small>06:45 PM</small></span></label>
+          </div>
+        </fieldset>
+
+        <fieldset data-step="3" hidden>
+          <legend>Choose the default clock style</legend>
+          <div class="choice-grid three-columns">
+            <label class="choice-card"><input type="radio" name="clock-style" value="combined" checked /><span><strong>Combined</strong><small>Analog + digital</small></span></label>
+            <label class="choice-card"><input type="radio" name="clock-style" value="digital" /><span><strong>Digital</strong><small>Time-first layout</small></span></label>
+            <label class="choice-card"><input type="radio" name="clock-style" value="analog" /><span><strong>Analog</strong><small>Classic clock face</small></span></label>
+          </div>
+        </fieldset>
+
+        <footer class="form-navigation">
+          <button id="back-button" class="secondary-button" type="button" hidden>Back</button>
+          <span></span>
+          <button id="continue-button" class="primary-button" type="button">Continue</button>
+          <button id="finish-button" class="primary-button" type="submit" hidden>Finish setup</button>
+        </footer>
+      </form>
+
+      <section id="success-screen" class="success-screen" hidden>
+        <div class="success-mark" aria-hidden="true">✓</div>
+        <h2>Your world clocks are ready</h2>
+        <p>Open World Clock from Chrome’s toolbar for the popup, or use the side panel for the full workspace.</p>
+        <button id="open-side-panel" class="primary-button" type="button">Open side panel</button>
+      </section>
+    </main>
+    <div id="overlay-root"></div>
+    <script type="module" src="./onboarding.js"></script>
+  </body>
+</html>

@@ -1,0 +1,345 @@
+[
+  {
+    "timezone": "Asia/Kolkata",
+    "city": "Kolkata",
+    "country": "India",
+    "countryCode": "IN",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/kolkata kolkata india in asia"
+  },
+  {
+    "timezone": "Pacific/Kosrae",
+    "city": "Kosrae",
+    "country": "Micronesia",
+    "countryCode": "FM",
+    "aliases": [
+      "Pacific",
+      "Kosrae"
+    ],
+    "searchText": "pacific/kosrae kosrae micronesia fm pacific kosrae"
+  },
+  {
+    "timezone": "America/Kralendijk",
+    "city": "Kralendijk",
+    "country": "Caribbean Netherlands",
+    "countryCode": "BQ",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/kralendijk kralendijk caribbean netherlands bq america"
+  },
+  {
+    "timezone": "Asia/Krasnoyarsk",
+    "city": "Krasnoyarsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+04 - Krasnoyarsk area"
+    ],
+    "searchText": "asia/krasnoyarsk krasnoyarsk russia ru asia msk+04 - krasnoyarsk area"
+  },
+  {
+    "timezone": "Asia/Kuala_Lumpur",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "aliases": [
+      "Asia",
+      "Malaysia (peninsula)"
+    ],
+    "searchText": "asia/kuala_lumpur kuala lumpur malaysia my asia malaysia (peninsula)"
+  },
+  {
+    "timezone": "Asia/Kuching",
+    "city": "Kuching",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "aliases": [
+      "Asia",
+      "Sabah, Sarawak"
+    ],
+    "searchText": "asia/kuching kuching malaysia my asia sabah, sarawak"
+  },
+  {
+    "timezone": "Asia/Kuwait",
+    "city": "Kuwait",
+    "country": "Kuwait",
+    "countryCode": "KW",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/kuwait kuwait kuwait kw asia"
+  },
+  {
+    "timezone": "Pacific/Kwajalein",
+    "city": "Kwajalein",
+    "country": "Marshall Islands",
+    "countryCode": "MH",
+    "aliases": [
+      "Pacific",
+      "Kwajalein"
+    ],
+    "searchText": "pacific/kwajalein kwajalein marshall islands mh pacific kwajalein"
+  },
+  {
+    "timezone": "Europe/Kyiv",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "aliases": [
+      "Europe",
+      "most of Ukraine"
+    ],
+    "searchText": "europe/kyiv kyiv ukraine ua europe most of ukraine"
+  },
+  {
+    "timezone": "America/La_Paz",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/la_paz la paz bolivia bo america"
+  },
+  {
+    "timezone": "America/Argentina/La_Rioja",
+    "city": "La Rioja",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "aliases": [
+      "America",
+      "La Rioja (LR)"
+    ],
+    "searchText": "america/argentina/la_rioja la rioja argentina ar america la rioja (lr)"
+  },
+  {
+    "timezone": "Africa/Lagos",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/lagos lagos nigeria ng africa"
+  },
+  {
+    "timezone": "Africa/Libreville",
+    "city": "Libreville",
+    "country": "Gabon",
+    "countryCode": "GA",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/libreville libreville gabon ga africa"
+  },
+  {
+    "timezone": "America/Lima",
+    "city": "Lima",
+    "country": "Peru",
+    "countryCode": "PE",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/lima lima peru pe america"
+  },
+  {
+    "timezone": "Australia/Lindeman",
+    "city": "Lindeman",
+    "country": "Australia",
+    "countryCode": "AU",
+    "aliases": [
+      "Australia",
+      "Queensland (Whitsunday Islands)"
+    ],
+    "searchText": "australia/lindeman lindeman australia au australia queensland (whitsunday islands)"
+  },
+  {
+    "timezone": "Europe/Lisbon",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "aliases": [
+      "Europe",
+      "Portugal (mainland)"
+    ],
+    "searchText": "europe/lisbon lisbon portugal pt europe portugal (mainland)"
+  },
+  {
+    "timezone": "Europe/Ljubljana",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/ljubljana ljubljana slovenia si europe"
+  },
+  {
+    "timezone": "Africa/Lome",
+    "city": "Lome",
+    "country": "Togo",
+    "countryCode": "TG",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/lome lome togo tg africa"
+  },
+  {
+    "timezone": "Europe/London",
+    "city": "London",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "aliases": [
+      "Europe",
+      "UK",
+      "Britain",
+      "GMT",
+      "British time"
+    ],
+    "searchText": "europe/london london united kingdom gb europe uk britain gmt british time"
+  },
+  {
+    "timezone": "Arctic/Longyearbyen",
+    "city": "Longyearbyen",
+    "country": "Svalbard & Jan Mayen",
+    "countryCode": "SJ",
+    "aliases": [
+      "Arctic"
+    ],
+    "searchText": "arctic/longyearbyen longyearbyen svalbard & jan mayen sj arctic"
+  },
+  {
+    "timezone": "Australia/Lord_Howe",
+    "city": "Lord Howe",
+    "country": "Australia",
+    "countryCode": "AU",
+    "aliases": [
+      "Australia",
+      "Lord Howe Island"
+    ],
+    "searchText": "australia/lord_howe lord howe australia au australia lord howe island"
+  },
+  {
+    "timezone": "America/Los_Angeles",
+    "city": "Los Angeles",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Pacific",
+      "LA",
+      "Pacific time",
+      "PT"
+    ],
+    "searchText": "america/los_angeles los angeles united states us america pacific la pacific time pt"
+  },
+  {
+    "timezone": "America/Kentucky/Louisville",
+    "city": "Louisville",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Eastern - KY (Louisville area)"
+    ],
+    "searchText": "america/kentucky/louisville louisville united states us america eastern - ky (louisville area)"
+  },
+  {
+    "timezone": "America/Lower_Princes",
+    "city": "Lower Princes",
+    "country": "Sint Maarten",
+    "countryCode": "SX",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/lower_princes lower princes sint maarten sx america"
+  },
+  {
+    "timezone": "Africa/Luanda",
+    "city": "Luanda",
+    "country": "Angola",
+    "countryCode": "AO",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/luanda luanda angola ao africa"
+  },
+  {
+    "timezone": "Africa/Lubumbashi",
+    "city": "Lubumbashi",
+    "country": "Congo - Kinshasa",
+    "countryCode": "CD",
+    "aliases": [
+      "Africa",
+      "Dem. Rep. of Congo (east)"
+    ],
+    "searchText": "africa/lubumbashi lubumbashi congo - kinshasa cd africa dem. rep. of congo (east)"
+  },
+  {
+    "timezone": "Africa/Lusaka",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/lusaka lusaka zambia zm africa"
+  },
+  {
+    "timezone": "Europe/Luxembourg",
+    "city": "Luxembourg",
+    "country": "Luxembourg",
+    "countryCode": "LU",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/luxembourg luxembourg luxembourg lu europe"
+  },
+  {
+    "timezone": "Asia/Macau",
+    "city": "Macau",
+    "country": "Macao SAR China",
+    "countryCode": "MO",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/macau macau macao sar china mo asia"
+  },
+  {
+    "timezone": "America/Maceio",
+    "city": "Maceio",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Alagoas, Sergipe"
+    ],
+    "searchText": "america/maceio maceio brazil br america alagoas, sergipe"
+  },
+  {
+    "timezone": "Antarctica/Macquarie",
+    "city": "Macquarie",
+    "country": "Australia",
+    "countryCode": "AU",
+    "aliases": [
+      "Antarctica",
+      "Macquarie Island"
+    ],
+    "searchText": "antarctica/macquarie macquarie australia au antarctica macquarie island"
+  },
+  {
+    "timezone": "Atlantic/Madeira",
+    "city": "Madeira",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "aliases": [
+      "Atlantic",
+      "Madeira Islands"
+    ],
+    "searchText": "atlantic/madeira madeira portugal pt atlantic madeira islands"
+  }
+]

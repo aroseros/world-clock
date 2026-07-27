@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>World Clock</title>
+    <link rel="stylesheet" href="../shared/shared.css" />
+    <link rel="stylesheet" href="./popup.css" />
+  </head>
+  <body class="popup-page">
+    <main class="app-shell" id="app" aria-busy="true">
+      <header class="toolbar">
+        <div><p class="eyebrow">WORLD CLOCK</p><h1>My clocks</h1></div>
+        <button id="settings-button" class="icon-button" type="button" aria-label="Open settings">⚙</button>
+      </header>
+      <div id="warning-region" aria-live="polite" hidden></div>
+      <section id="clock-list" class="clock-list" aria-label="Saved world clocks"></section>
+      <footer class="popup-actions">
+        <button id="add-location" class="primary-button" type="button">Add location</button>
+        <button id="converter-button" class="secondary-button" type="button">Convert time</button>
+        <button id="open-side-panel" class="secondary-button" type="button">Open side panel</button>
+      </footer>
+    </main>
+    <div id="overlay-root"></div>
+    <div id="toast-root"></div>
+    <script type="module" src="./popup.js"></script>
+  </body>
+</html>

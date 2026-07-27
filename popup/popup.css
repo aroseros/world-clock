@@ -1,0 +1,31 @@
+html, body { width: 380px; min-width: 380px; }
+body { min-height: 560px; max-height: 600px; overflow: hidden; }
+.app-shell {
+  height: 560px;
+  display: grid;
+  grid-template-rows: auto auto minmax(0, 1fr) auto;
+  padding: 18px;
+  gap: 14px;
+}
+.clock-list {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  display: grid;
+  align-content: start;
+  gap: 12px;
+  padding: 2px 5px 2px 2px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255,255,255,.22) transparent;
+}
+.popup-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+#open-side-panel { grid-column: 1 / -1; }
+.popup-page .clock-card { padding: 14px; }
+.popup-page .clock-display { min-height: 70px; margin: 13px 0 9px; }
+.popup-page .analog-clock { width: 66px; height: 66px; }
+.popup-page [data-role="digital-time"] { font-size: 34px; }
+.popup-page .card-actions { margin-top: 11px; }
+.popup-page .card-actions .style-field { flex: 1 1 145px; }
+.popup-page .card-actions .danger-button { min-height: 36px; padding: 7px 10px; }
+.popup-page .search-popover { inset: 10px; max-height: 540px; }
+.onboarding-banner { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 10px; }
+.onboarding-banner p { margin: 0; }

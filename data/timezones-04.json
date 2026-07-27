@@ -1,0 +1,340 @@
+[
+  {
+    "timezone": "America/Costa_Rica",
+    "city": "Costa Rica",
+    "country": "Costa Rica",
+    "countryCode": "CR",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/costa_rica costa rica costa rica cr america"
+  },
+  {
+    "timezone": "America/Coyhaique",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "countryCode": "CL",
+    "aliases": [
+      "America",
+      "Aysen Region"
+    ],
+    "searchText": "america/coyhaique coyhaique chile cl america aysen region"
+  },
+  {
+    "timezone": "America/Creston",
+    "city": "Creston",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "MST - BC (Creston)"
+    ],
+    "searchText": "america/creston creston canada ca america mst - bc (creston)"
+  },
+  {
+    "timezone": "America/Cuiaba",
+    "city": "Cuiaba",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Mato Grosso"
+    ],
+    "searchText": "america/cuiaba cuiaba brazil br america mato grosso"
+  },
+  {
+    "timezone": "America/Curacao",
+    "city": "Curacao",
+    "country": "Curaçao",
+    "countryCode": "CW",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/curacao curacao curaçao cw america"
+  },
+  {
+    "timezone": "Africa/Dakar",
+    "city": "Dakar",
+    "country": "Senegal",
+    "countryCode": "SN",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/dakar dakar senegal sn africa"
+  },
+  {
+    "timezone": "Asia/Damascus",
+    "city": "Damascus",
+    "country": "Syria",
+    "countryCode": "SY",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/damascus damascus syria sy asia"
+  },
+  {
+    "timezone": "America/Danmarkshavn",
+    "city": "Danmarkshavn",
+    "country": "Greenland",
+    "countryCode": "GL",
+    "aliases": [
+      "America",
+      "National Park (east coast)"
+    ],
+    "searchText": "america/danmarkshavn danmarkshavn greenland gl america national park (east coast)"
+  },
+  {
+    "timezone": "Africa/Dar_es_Salaam",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "countryCode": "TZ",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/dar_es_salaam dar es salaam tanzania tz africa"
+  },
+  {
+    "timezone": "Australia/Darwin",
+    "city": "Darwin",
+    "country": "Australia",
+    "countryCode": "AU",
+    "aliases": [
+      "Australia",
+      "Northern Territory"
+    ],
+    "searchText": "australia/darwin darwin australia au australia northern territory"
+  },
+  {
+    "timezone": "Antarctica/Davis",
+    "city": "Davis",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "aliases": [
+      "Antarctica",
+      "Davis"
+    ],
+    "searchText": "antarctica/davis davis antarctica aq antarctica davis"
+  },
+  {
+    "timezone": "America/Dawson",
+    "city": "Dawson",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "MST - Yukon (west)"
+    ],
+    "searchText": "america/dawson dawson canada ca america mst - yukon (west)"
+  },
+  {
+    "timezone": "America/Dawson_Creek",
+    "city": "Dawson Creek",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "MST - BC (Dawson Cr, Ft St John)"
+    ],
+    "searchText": "america/dawson_creek dawson creek canada ca america mst - bc (dawson cr, ft st john)"
+  },
+  {
+    "timezone": "America/Denver",
+    "city": "Denver",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Mountain (most areas)"
+    ],
+    "searchText": "america/denver denver united states us america mountain (most areas)"
+  },
+  {
+    "timezone": "America/Detroit",
+    "city": "Detroit",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Eastern - MI (most areas)"
+    ],
+    "searchText": "america/detroit detroit united states us america eastern - mi (most areas)"
+  },
+  {
+    "timezone": "Asia/Dhaka",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "countryCode": "BD",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/dhaka dhaka bangladesh bd asia"
+  },
+  {
+    "timezone": "Asia/Dili",
+    "city": "Dili",
+    "country": "Timor-Leste",
+    "countryCode": "TL",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/dili dili timor-leste tl asia"
+  },
+  {
+    "timezone": "Africa/Djibouti",
+    "city": "Djibouti",
+    "country": "Djibouti",
+    "countryCode": "DJ",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/djibouti djibouti djibouti dj africa"
+  },
+  {
+    "timezone": "America/Dominica",
+    "city": "Dominica",
+    "country": "Dominica",
+    "countryCode": "DM",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/dominica dominica dominica dm america"
+  },
+  {
+    "timezone": "Africa/Douala",
+    "city": "Douala",
+    "country": "Cameroon",
+    "countryCode": "CM",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/douala douala cameroon cm africa"
+  },
+  {
+    "timezone": "Asia/Dubai",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "aliases": [
+      "Asia",
+      "UAE",
+      "Abu Dhabi",
+      "Gulf time"
+    ],
+    "searchText": "asia/dubai dubai united arab emirates ae asia uae abu dhabi gulf time"
+  },
+  {
+    "timezone": "Europe/Dublin",
+    "city": "Dublin",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/dublin dublin ireland ie europe"
+  },
+  {
+    "timezone": "Antarctica/DumontDUrville",
+    "city": "DumontDUrville",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "aliases": [
+      "Antarctica",
+      "Dumont-d'Urville"
+    ],
+    "searchText": "antarctica/dumontdurville dumontdurville antarctica aq antarctica dumont-d'urville"
+  },
+  {
+    "timezone": "Asia/Dushanbe",
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "countryCode": "TJ",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/dushanbe dushanbe tajikistan tj asia"
+  },
+  {
+    "timezone": "Pacific/Easter",
+    "city": "Easter",
+    "country": "Chile",
+    "countryCode": "CL",
+    "aliases": [
+      "Pacific",
+      "Easter Island"
+    ],
+    "searchText": "pacific/easter easter chile cl pacific easter island"
+  },
+  {
+    "timezone": "America/Edmonton",
+    "city": "Edmonton",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Mountain - AB, BC(E), NT(E), SK(W)"
+    ],
+    "searchText": "america/edmonton edmonton canada ca america mountain - ab, bc(e), nt(e), sk(w)"
+  },
+  {
+    "timezone": "Pacific/Efate",
+    "city": "Efate",
+    "country": "Vanuatu",
+    "countryCode": "VU",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/efate efate vanuatu vu pacific"
+  },
+  {
+    "timezone": "America/Eirunepe",
+    "city": "Eirunepe",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Amazonas (west)"
+    ],
+    "searchText": "america/eirunepe eirunepe brazil br america amazonas (west)"
+  },
+  {
+    "timezone": "Africa/El_Aaiun",
+    "city": "El Aaiun",
+    "country": "Western Sahara",
+    "countryCode": "EH",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/el_aaiun el aaiun western sahara eh africa"
+  },
+  {
+    "timezone": "America/El_Salvador",
+    "city": "El Salvador",
+    "country": "El Salvador",
+    "countryCode": "SV",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/el_salvador el salvador el salvador sv america"
+  },
+  {
+    "timezone": "Australia/Eucla",
+    "city": "Eucla",
+    "country": "Australia",
+    "countryCode": "AU",
+    "aliases": [
+      "Australia",
+      "Western Australia (Eucla)"
+    ],
+    "searchText": "australia/eucla eucla australia au australia western australia (eucla)"
+  },
+  {
+    "timezone": "Pacific/Fakaofo",
+    "city": "Fakaofo",
+    "country": "Tokelau",
+    "countryCode": "TK",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/fakaofo fakaofo tokelau tk pacific"
+  }
+]

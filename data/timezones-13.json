@@ -1,0 +1,342 @@
+[
+  {
+    "timezone": "Africa/Tripoli",
+    "city": "Tripoli",
+    "country": "Libya",
+    "countryCode": "LY",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/tripoli tripoli libya ly africa"
+  },
+  {
+    "timezone": "Antarctica/Troll",
+    "city": "Troll",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "aliases": [
+      "Antarctica",
+      "Troll"
+    ],
+    "searchText": "antarctica/troll troll antarctica aq antarctica troll"
+  },
+  {
+    "timezone": "America/Argentina/Tucuman",
+    "city": "Tucuman",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "aliases": [
+      "America",
+      "Tucuman (TM)"
+    ],
+    "searchText": "america/argentina/tucuman tucuman argentina ar america tucuman (tm)"
+  },
+  {
+    "timezone": "Africa/Tunis",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "countryCode": "TN",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/tunis tunis tunisia tn africa"
+  },
+  {
+    "timezone": "Asia/Ulaanbaatar",
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "aliases": [
+      "Asia",
+      "most of Mongolia"
+    ],
+    "searchText": "asia/ulaanbaatar ulaanbaatar mongolia mn asia most of mongolia"
+  },
+  {
+    "timezone": "Europe/Ulyanovsk",
+    "city": "Ulyanovsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Europe",
+      "MSK+01 - Ulyanovsk"
+    ],
+    "searchText": "europe/ulyanovsk ulyanovsk russia ru europe msk+01 - ulyanovsk"
+  },
+  {
+    "timezone": "Asia/Urumqi",
+    "city": "Urumqi",
+    "country": "China",
+    "countryCode": "CN",
+    "aliases": [
+      "Asia",
+      "Xinjiang Time"
+    ],
+    "searchText": "asia/urumqi urumqi china cn asia xinjiang time"
+  },
+  {
+    "timezone": "America/Argentina/Ushuaia",
+    "city": "Ushuaia",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "aliases": [
+      "America",
+      "Tierra del Fuego (TF)"
+    ],
+    "searchText": "america/argentina/ushuaia ushuaia argentina ar america tierra del fuego (tf)"
+  },
+  {
+    "timezone": "Asia/Ust-Nera",
+    "city": "Ust-Nera",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+07 - Oymyakonsky"
+    ],
+    "searchText": "asia/ust-nera ust-nera russia ru asia msk+07 - oymyakonsky"
+  },
+  {
+    "timezone": "Europe/Vaduz",
+    "city": "Vaduz",
+    "country": "Liechtenstein",
+    "countryCode": "LI",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/vaduz vaduz liechtenstein li europe"
+  },
+  {
+    "timezone": "America/Vancouver",
+    "city": "Vancouver",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Pacific - BC (most areas)"
+    ],
+    "searchText": "america/vancouver vancouver canada ca america pacific - bc (most areas)"
+  },
+  {
+    "timezone": "Europe/Vatican",
+    "city": "Vatican",
+    "country": "Vatican City",
+    "countryCode": "VA",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/vatican vatican vatican city va europe"
+  },
+  {
+    "timezone": "America/Indiana/Vevay",
+    "city": "Vevay",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Eastern - IN (Switzerland)"
+    ],
+    "searchText": "america/indiana/vevay vevay united states us america eastern - in (switzerland)"
+  },
+  {
+    "timezone": "Europe/Vienna",
+    "city": "Vienna",
+    "country": "Austria",
+    "countryCode": "AT",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/vienna vienna austria at europe"
+  },
+  {
+    "timezone": "Asia/Vientiane",
+    "city": "Vientiane",
+    "country": "Laos",
+    "countryCode": "LA",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/vientiane vientiane laos la asia"
+  },
+  {
+    "timezone": "Europe/Vilnius",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/vilnius vilnius lithuania lt europe"
+  },
+  {
+    "timezone": "America/Indiana/Vincennes",
+    "city": "Vincennes",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Eastern - IN (Da, Du, K, Mn)"
+    ],
+    "searchText": "america/indiana/vincennes vincennes united states us america eastern - in (da, du, k, mn)"
+  },
+  {
+    "timezone": "Asia/Vladivostok",
+    "city": "Vladivostok",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+07 - Amur River"
+    ],
+    "searchText": "asia/vladivostok vladivostok russia ru asia msk+07 - amur river"
+  },
+  {
+    "timezone": "Europe/Volgograd",
+    "city": "Volgograd",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Europe",
+      "MSK+00 - Volgograd"
+    ],
+    "searchText": "europe/volgograd volgograd russia ru europe msk+00 - volgograd"
+  },
+  {
+    "timezone": "Antarctica/Vostok",
+    "city": "Vostok",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "aliases": [
+      "Antarctica",
+      "Vostok"
+    ],
+    "searchText": "antarctica/vostok vostok antarctica aq antarctica vostok"
+  },
+  {
+    "timezone": "Pacific/Wake",
+    "city": "Wake",
+    "country": "U.S. Outlying Islands",
+    "countryCode": "UM",
+    "aliases": [
+      "Pacific",
+      "Wake Island"
+    ],
+    "searchText": "pacific/wake wake u.s. outlying islands um pacific wake island"
+  },
+  {
+    "timezone": "Pacific/Wallis",
+    "city": "Wallis",
+    "country": "Wallis & Futuna",
+    "countryCode": "WF",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/wallis wallis wallis & futuna wf pacific"
+  },
+  {
+    "timezone": "Europe/Warsaw",
+    "city": "Warsaw",
+    "country": "Poland",
+    "countryCode": "PL",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/warsaw warsaw poland pl europe"
+  },
+  {
+    "timezone": "America/Whitehorse",
+    "city": "Whitehorse",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "MST - Yukon (east)"
+    ],
+    "searchText": "america/whitehorse whitehorse canada ca america mst - yukon (east)"
+  },
+  {
+    "timezone": "America/Indiana/Winamac",
+    "city": "Winamac",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Eastern - IN (Pulaski)"
+    ],
+    "searchText": "america/indiana/winamac winamac united states us america eastern - in (pulaski)"
+  },
+  {
+    "timezone": "Africa/Windhoek",
+    "city": "Windhoek",
+    "country": "Namibia",
+    "countryCode": "NA",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/windhoek windhoek namibia na africa"
+  },
+  {
+    "timezone": "America/Winnipeg",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Central - ON (west), Manitoba"
+    ],
+    "searchText": "america/winnipeg winnipeg canada ca america central - on (west), manitoba"
+  },
+  {
+    "timezone": "America/Yakutat",
+    "city": "Yakutat",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Alaska - Yakutat"
+    ],
+    "searchText": "america/yakutat yakutat united states us america alaska - yakutat"
+  },
+  {
+    "timezone": "Asia/Yakutsk",
+    "city": "Yakutsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+06 - Lena River"
+    ],
+    "searchText": "asia/yakutsk yakutsk russia ru asia msk+06 - lena river"
+  },
+  {
+    "timezone": "Asia/Yangon",
+    "city": "Yangon",
+    "country": "Myanmar (Burma)",
+    "countryCode": "MM",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/yangon yangon myanmar (burma) mm asia"
+  },
+  {
+    "timezone": "Asia/Yekaterinburg",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+02 - Urals"
+    ],
+    "searchText": "asia/yekaterinburg yekaterinburg russia ru asia msk+02 - urals"
+  },
+  {
+    "timezone": "Asia/Yerevan",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "countryCode": "AM",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/yerevan yerevan armenia am asia"
+  }
+]

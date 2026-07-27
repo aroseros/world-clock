@@ -1,0 +1,22 @@
+[
+  {
+    "timezone": "Europe/Zagreb",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "countryCode": "HR",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/zagreb zagreb croatia hr europe"
+  },
+  {
+    "timezone": "Europe/Zurich",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/zurich zurich switzerland ch europe"
+  }
+]

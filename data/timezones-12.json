@@ -1,0 +1,337 @@
+[
+  {
+    "timezone": "Atlantic/South_Georgia",
+    "city": "South Georgia",
+    "country": "South Georgia & South Sandwich Islands",
+    "countryCode": "GS",
+    "aliases": [
+      "Atlantic"
+    ],
+    "searchText": "atlantic/south_georgia south georgia south georgia & south sandwich islands gs atlantic"
+  },
+  {
+    "timezone": "Asia/Srednekolymsk",
+    "city": "Srednekolymsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+08 - Sakha (E), N Kuril Is"
+    ],
+    "searchText": "asia/srednekolymsk srednekolymsk russia ru asia msk+08 - sakha (e), n kuril is"
+  },
+  {
+    "timezone": "America/St_Barthelemy",
+    "city": "St Barthelemy",
+    "country": "St. Barthélemy",
+    "countryCode": "BL",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/st_barthelemy st barthelemy st. barthélemy bl america"
+  },
+  {
+    "timezone": "Atlantic/St_Helena",
+    "city": "St Helena",
+    "country": "St. Helena",
+    "countryCode": "SH",
+    "aliases": [
+      "Atlantic"
+    ],
+    "searchText": "atlantic/st_helena st helena st. helena sh atlantic"
+  },
+  {
+    "timezone": "America/St_Johns",
+    "city": "St Johns",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Newfoundland, Labrador (SE)"
+    ],
+    "searchText": "america/st_johns st johns canada ca america newfoundland, labrador (se)"
+  },
+  {
+    "timezone": "America/St_Kitts",
+    "city": "St Kitts",
+    "country": "St. Kitts & Nevis",
+    "countryCode": "KN",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/st_kitts st kitts st. kitts & nevis kn america"
+  },
+  {
+    "timezone": "America/St_Lucia",
+    "city": "St Lucia",
+    "country": "St. Lucia",
+    "countryCode": "LC",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/st_lucia st lucia st. lucia lc america"
+  },
+  {
+    "timezone": "America/St_Thomas",
+    "city": "St Thomas",
+    "country": "U.S. Virgin Islands",
+    "countryCode": "VI",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/st_thomas st thomas u.s. virgin islands vi america"
+  },
+  {
+    "timezone": "America/St_Vincent",
+    "city": "St Vincent",
+    "country": "St. Vincent & Grenadines",
+    "countryCode": "VC",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/st_vincent st vincent st. vincent & grenadines vc america"
+  },
+  {
+    "timezone": "Atlantic/Stanley",
+    "city": "Stanley",
+    "country": "Falkland Islands",
+    "countryCode": "FK",
+    "aliases": [
+      "Atlantic"
+    ],
+    "searchText": "atlantic/stanley stanley falkland islands fk atlantic"
+  },
+  {
+    "timezone": "Europe/Stockholm",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/stockholm stockholm sweden se europe"
+  },
+  {
+    "timezone": "America/Swift_Current",
+    "city": "Swift Current",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "CST - SK (midwest)"
+    ],
+    "searchText": "america/swift_current swift current canada ca america cst - sk (midwest)"
+  },
+  {
+    "timezone": "Australia/Sydney",
+    "city": "Sydney",
+    "country": "Australia",
+    "countryCode": "AU",
+    "aliases": [
+      "Australia",
+      "New South Wales (most areas)"
+    ],
+    "searchText": "australia/sydney sydney australia au australia new south wales (most areas)"
+  },
+  {
+    "timezone": "Antarctica/Syowa",
+    "city": "Syowa",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "aliases": [
+      "Antarctica",
+      "Syowa"
+    ],
+    "searchText": "antarctica/syowa syowa antarctica aq antarctica syowa"
+  },
+  {
+    "timezone": "Pacific/Tahiti",
+    "city": "Tahiti",
+    "country": "French Polynesia",
+    "countryCode": "PF",
+    "aliases": [
+      "Pacific",
+      "Society Islands"
+    ],
+    "searchText": "pacific/tahiti tahiti french polynesia pf pacific society islands"
+  },
+  {
+    "timezone": "Asia/Taipei",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/taipei taipei taiwan tw asia"
+  },
+  {
+    "timezone": "Europe/Tallinn",
+    "city": "Tallinn",
+    "country": "Estonia",
+    "countryCode": "EE",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/tallinn tallinn estonia ee europe"
+  },
+  {
+    "timezone": "Pacific/Tarawa",
+    "city": "Tarawa",
+    "country": "Kiribati",
+    "countryCode": "KI",
+    "aliases": [
+      "Pacific",
+      "Gilbert Islands"
+    ],
+    "searchText": "pacific/tarawa tarawa kiribati ki pacific gilbert islands"
+  },
+  {
+    "timezone": "Asia/Tashkent",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "countryCode": "UZ",
+    "aliases": [
+      "Asia",
+      "Uzbekistan (east)"
+    ],
+    "searchText": "asia/tashkent tashkent uzbekistan uz asia uzbekistan (east)"
+  },
+  {
+    "timezone": "Asia/Tbilisi",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "countryCode": "GE",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/tbilisi tbilisi georgia ge asia"
+  },
+  {
+    "timezone": "America/Tegucigalpa",
+    "city": "Tegucigalpa",
+    "country": "Honduras",
+    "countryCode": "HN",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/tegucigalpa tegucigalpa honduras hn america"
+  },
+  {
+    "timezone": "Asia/Tehran",
+    "city": "Tehran",
+    "country": "Iran",
+    "countryCode": "IR",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/tehran tehran iran ir asia"
+  },
+  {
+    "timezone": "America/Indiana/Tell_City",
+    "city": "Tell City",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Central - IN (Perry)"
+    ],
+    "searchText": "america/indiana/tell_city tell city united states us america central - in (perry)"
+  },
+  {
+    "timezone": "Asia/Thimphu",
+    "city": "Thimphu",
+    "country": "Bhutan",
+    "countryCode": "BT",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/thimphu thimphu bhutan bt asia"
+  },
+  {
+    "timezone": "America/Thule",
+    "city": "Thule",
+    "country": "Greenland",
+    "countryCode": "GL",
+    "aliases": [
+      "America",
+      "Thule/Pituffik"
+    ],
+    "searchText": "america/thule thule greenland gl america thule/pituffik"
+  },
+  {
+    "timezone": "America/Tijuana",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "aliases": [
+      "America",
+      "Baja California"
+    ],
+    "searchText": "america/tijuana tijuana mexico mx america baja california"
+  },
+  {
+    "timezone": "Europe/Tirane",
+    "city": "Tirane",
+    "country": "Albania",
+    "countryCode": "AL",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/tirane tirane albania al europe"
+  },
+  {
+    "timezone": "Asia/Tokyo",
+    "city": "Tokyo",
+    "country": "Japan",
+    "countryCode": "JP",
+    "aliases": [
+      "Asia",
+      "Japan time",
+      "JST"
+    ],
+    "searchText": "asia/tokyo tokyo japan jp asia japan time jst"
+  },
+  {
+    "timezone": "Asia/Tomsk",
+    "city": "Tomsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+04 - Tomsk"
+    ],
+    "searchText": "asia/tomsk tomsk russia ru asia msk+04 - tomsk"
+  },
+  {
+    "timezone": "Pacific/Tongatapu",
+    "city": "Tongatapu",
+    "country": "Tonga",
+    "countryCode": "TO",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/tongatapu tongatapu tonga to pacific"
+  },
+  {
+    "timezone": "America/Toronto",
+    "city": "Toronto",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Eastern - ON & QC (most areas)"
+    ],
+    "searchText": "america/toronto toronto canada ca america eastern - on & qc (most areas)"
+  },
+  {
+    "timezone": "America/Tortola",
+    "city": "Tortola",
+    "country": "British Virgin Islands",
+    "countryCode": "VG",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/tortola tortola british virgin islands vg america"
+  }
+]

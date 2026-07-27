@@ -1,0 +1,333 @@
+[
+  {
+    "timezone": "America/Bahia_Banderas",
+    "city": "Bahia Banderas",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "aliases": [
+      "America",
+      "Bahia de Banderas"
+    ],
+    "searchText": "america/bahia_banderas bahia banderas mexico mx america bahia de banderas"
+  },
+  {
+    "timezone": "Asia/Bahrain",
+    "city": "Bahrain",
+    "country": "Bahrain",
+    "countryCode": "BH",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/bahrain bahrain bahrain bh asia"
+  },
+  {
+    "timezone": "Asia/Baku",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "countryCode": "AZ",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/baku baku azerbaijan az asia"
+  },
+  {
+    "timezone": "Africa/Bamako",
+    "city": "Bamako",
+    "country": "Mali",
+    "countryCode": "ML",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/bamako bamako mali ml africa"
+  },
+  {
+    "timezone": "Asia/Bangkok",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/bangkok bangkok thailand th asia"
+  },
+  {
+    "timezone": "Africa/Bangui",
+    "city": "Bangui",
+    "country": "Central African Republic",
+    "countryCode": "CF",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/bangui bangui central african republic cf africa"
+  },
+  {
+    "timezone": "Africa/Banjul",
+    "city": "Banjul",
+    "country": "Gambia",
+    "countryCode": "GM",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/banjul banjul gambia gm africa"
+  },
+  {
+    "timezone": "America/Barbados",
+    "city": "Barbados",
+    "country": "Barbados",
+    "countryCode": "BB",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/barbados barbados barbados bb america"
+  },
+  {
+    "timezone": "Asia/Barnaul",
+    "city": "Barnaul",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+04 - Altai"
+    ],
+    "searchText": "asia/barnaul barnaul russia ru asia msk+04 - altai"
+  },
+  {
+    "timezone": "Asia/Beirut",
+    "city": "Beirut",
+    "country": "Lebanon",
+    "countryCode": "LB",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/beirut beirut lebanon lb asia"
+  },
+  {
+    "timezone": "America/Belem",
+    "city": "Belem",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Para (east), Amapa"
+    ],
+    "searchText": "america/belem belem brazil br america para (east), amapa"
+  },
+  {
+    "timezone": "Europe/Belgrade",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "countryCode": "RS",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/belgrade belgrade serbia rs europe"
+  },
+  {
+    "timezone": "America/Belize",
+    "city": "Belize",
+    "country": "Belize",
+    "countryCode": "BZ",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/belize belize belize bz america"
+  },
+  {
+    "timezone": "Europe/Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "countryCode": "DE",
+    "aliases": [
+      "Europe",
+      "most of Germany"
+    ],
+    "searchText": "europe/berlin berlin germany de europe most of germany"
+  },
+  {
+    "timezone": "Atlantic/Bermuda",
+    "city": "Bermuda",
+    "country": "Bermuda",
+    "countryCode": "BM",
+    "aliases": [
+      "Atlantic"
+    ],
+    "searchText": "atlantic/bermuda bermuda bermuda bm atlantic"
+  },
+  {
+    "timezone": "America/North_Dakota/Beulah",
+    "city": "Beulah",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Central - ND (Mercer)"
+    ],
+    "searchText": "america/north_dakota/beulah beulah united states us america central - nd (mercer)"
+  },
+  {
+    "timezone": "Asia/Bishkek",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "countryCode": "KG",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/bishkek bishkek kyrgyzstan kg asia"
+  },
+  {
+    "timezone": "Africa/Bissau",
+    "city": "Bissau",
+    "country": "Guinea-Bissau",
+    "countryCode": "GW",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/bissau bissau guinea-bissau gw africa"
+  },
+  {
+    "timezone": "America/Blanc-Sablon",
+    "city": "Blanc-Sablon",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "AST - QC (Lower North Shore)"
+    ],
+    "searchText": "america/blanc-sablon blanc-sablon canada ca america ast - qc (lower north shore)"
+  },
+  {
+    "timezone": "Africa/Blantyre",
+    "city": "Blantyre",
+    "country": "Malawi",
+    "countryCode": "MW",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/blantyre blantyre malawi mw africa"
+  },
+  {
+    "timezone": "America/Boa_Vista",
+    "city": "Boa Vista",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Roraima"
+    ],
+    "searchText": "america/boa_vista boa vista brazil br america roraima"
+  },
+  {
+    "timezone": "America/Bogota",
+    "city": "Bogota",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/bogota bogota colombia co america"
+  },
+  {
+    "timezone": "America/Boise",
+    "city": "Boise",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Mountain - ID (south), OR (east)"
+    ],
+    "searchText": "america/boise boise united states us america mountain - id (south), or (east)"
+  },
+  {
+    "timezone": "Pacific/Bougainville",
+    "city": "Bougainville",
+    "country": "Papua New Guinea",
+    "countryCode": "PG",
+    "aliases": [
+      "Pacific",
+      "Bougainville"
+    ],
+    "searchText": "pacific/bougainville bougainville papua new guinea pg pacific bougainville"
+  },
+  {
+    "timezone": "Europe/Bratislava",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/bratislava bratislava slovakia sk europe"
+  },
+  {
+    "timezone": "Africa/Brazzaville",
+    "city": "Brazzaville",
+    "country": "Congo - Brazzaville",
+    "countryCode": "CG",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/brazzaville brazzaville congo - brazzaville cg africa"
+  },
+  {
+    "timezone": "Australia/Brisbane",
+    "city": "Brisbane",
+    "country": "Australia",
+    "countryCode": "AU",
+    "aliases": [
+      "Australia",
+      "Queensland (most areas)"
+    ],
+    "searchText": "australia/brisbane brisbane australia au australia queensland (most areas)"
+  },
+  {
+    "timezone": "Australia/Broken_Hill",
+    "city": "Broken Hill",
+    "country": "Australia",
+    "countryCode": "AU",
+    "aliases": [
+      "Australia",
+      "New South Wales (Yancowinna)"
+    ],
+    "searchText": "australia/broken_hill broken hill australia au australia new south wales (yancowinna)"
+  },
+  {
+    "timezone": "Asia/Brunei",
+    "city": "Brunei",
+    "country": "Brunei",
+    "countryCode": "BN",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/brunei brunei brunei bn asia"
+  },
+  {
+    "timezone": "Europe/Brussels",
+    "city": "Brussels",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/brussels brussels belgium be europe"
+  },
+  {
+    "timezone": "Europe/Bucharest",
+    "city": "Bucharest",
+    "country": "Romania",
+    "countryCode": "RO",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/bucharest bucharest romania ro europe"
+  },
+  {
+    "timezone": "Europe/Budapest",
+    "city": "Budapest",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/budapest budapest hungary hu europe"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "Asia/Baghdad": ["Erbil", "Arbil", "Sulaymaniyah", "Slemani", "Iraq time"],
+  "Asia/Dubai": ["UAE", "Abu Dhabi", "Gulf time"],
+  "Europe/London": ["UK", "Britain", "GMT", "British time"],
+  "America/New_York": ["NYC", "Eastern time", "ET"],
+  "America/Los_Angeles": ["LA", "Pacific time", "PT"],
+  "Asia/Tokyo": ["Japan time", "JST"]
+}

@@ -1,0 +1,340 @@
+[
+  {
+    "timezone": "America/Resolute",
+    "city": "Resolute",
+    "country": "Canada",
+    "countryCode": "CA",
+    "aliases": [
+      "America",
+      "Central - NU (Resolute)"
+    ],
+    "searchText": "america/resolute resolute canada ca america central - nu (resolute)"
+  },
+  {
+    "timezone": "Indian/Reunion",
+    "city": "Reunion",
+    "country": "Réunion",
+    "countryCode": "RE",
+    "aliases": [
+      "Indian"
+    ],
+    "searchText": "indian/reunion reunion réunion re indian"
+  },
+  {
+    "timezone": "Atlantic/Reykjavik",
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "countryCode": "IS",
+    "aliases": [
+      "Atlantic"
+    ],
+    "searchText": "atlantic/reykjavik reykjavik iceland is atlantic"
+  },
+  {
+    "timezone": "Europe/Riga",
+    "city": "Riga",
+    "country": "Latvia",
+    "countryCode": "LV",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/riga riga latvia lv europe"
+  },
+  {
+    "timezone": "America/Rio_Branco",
+    "city": "Rio Branco",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Acre"
+    ],
+    "searchText": "america/rio_branco rio branco brazil br america acre"
+  },
+  {
+    "timezone": "America/Argentina/Rio_Gallegos",
+    "city": "Rio Gallegos",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "aliases": [
+      "America",
+      "Santa Cruz (SC)"
+    ],
+    "searchText": "america/argentina/rio_gallegos rio gallegos argentina ar america santa cruz (sc)"
+  },
+  {
+    "timezone": "Asia/Riyadh",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/riyadh riyadh saudi arabia sa asia"
+  },
+  {
+    "timezone": "Europe/Rome",
+    "city": "Rome",
+    "country": "Italy",
+    "countryCode": "IT",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/rome rome italy it europe"
+  },
+  {
+    "timezone": "Antarctica/Rothera",
+    "city": "Rothera",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "aliases": [
+      "Antarctica",
+      "Rothera"
+    ],
+    "searchText": "antarctica/rothera rothera antarctica aq antarctica rothera"
+  },
+  {
+    "timezone": "Pacific/Saipan",
+    "city": "Saipan",
+    "country": "Northern Mariana Islands",
+    "countryCode": "MP",
+    "aliases": [
+      "Pacific"
+    ],
+    "searchText": "pacific/saipan saipan northern mariana islands mp pacific"
+  },
+  {
+    "timezone": "Asia/Sakhalin",
+    "city": "Sakhalin",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Asia",
+      "MSK+08 - Sakhalin Island"
+    ],
+    "searchText": "asia/sakhalin sakhalin russia ru asia msk+08 - sakhalin island"
+  },
+  {
+    "timezone": "America/Argentina/Salta",
+    "city": "Salta",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "aliases": [
+      "America",
+      "Salta (SA, LP, NQ, RN)"
+    ],
+    "searchText": "america/argentina/salta salta argentina ar america salta (sa, lp, nq, rn)"
+  },
+  {
+    "timezone": "Europe/Samara",
+    "city": "Samara",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Europe",
+      "MSK+01 - Samara, Udmurtia"
+    ],
+    "searchText": "europe/samara samara russia ru europe msk+01 - samara, udmurtia"
+  },
+  {
+    "timezone": "Asia/Samarkand",
+    "city": "Samarkand",
+    "country": "Uzbekistan",
+    "countryCode": "UZ",
+    "aliases": [
+      "Asia",
+      "Uzbekistan (west)"
+    ],
+    "searchText": "asia/samarkand samarkand uzbekistan uz asia uzbekistan (west)"
+  },
+  {
+    "timezone": "America/Argentina/San_Juan",
+    "city": "San Juan",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "aliases": [
+      "America",
+      "San Juan (SJ)"
+    ],
+    "searchText": "america/argentina/san_juan san juan argentina ar america san juan (sj)"
+  },
+  {
+    "timezone": "America/Argentina/San_Luis",
+    "city": "San Luis",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "aliases": [
+      "America",
+      "San Luis (SL)"
+    ],
+    "searchText": "america/argentina/san_luis san luis argentina ar america san luis (sl)"
+  },
+  {
+    "timezone": "Europe/San_Marino",
+    "city": "San Marino",
+    "country": "San Marino",
+    "countryCode": "SM",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/san_marino san marino san marino sm europe"
+  },
+  {
+    "timezone": "America/Santarem",
+    "city": "Santarem",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Para (west)"
+    ],
+    "searchText": "america/santarem santarem brazil br america para (west)"
+  },
+  {
+    "timezone": "America/Santiago",
+    "city": "Santiago",
+    "country": "Chile",
+    "countryCode": "CL",
+    "aliases": [
+      "America",
+      "most of Chile"
+    ],
+    "searchText": "america/santiago santiago chile cl america most of chile"
+  },
+  {
+    "timezone": "America/Santo_Domingo",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "countryCode": "DO",
+    "aliases": [
+      "America"
+    ],
+    "searchText": "america/santo_domingo santo domingo dominican republic do america"
+  },
+  {
+    "timezone": "America/Sao_Paulo",
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "aliases": [
+      "America",
+      "Brazil (southeast: GO, DF, MG, ES, RJ, SP, PR, SC, RS)"
+    ],
+    "searchText": "america/sao_paulo sao paulo brazil br america brazil (southeast: go, df, mg, es, rj, sp, pr, sc, rs)"
+  },
+  {
+    "timezone": "Africa/Sao_Tome",
+    "city": "Sao Tome",
+    "country": "São Tomé & Príncipe",
+    "countryCode": "ST",
+    "aliases": [
+      "Africa"
+    ],
+    "searchText": "africa/sao_tome sao tome são tomé & príncipe st africa"
+  },
+  {
+    "timezone": "Europe/Sarajevo",
+    "city": "Sarajevo",
+    "country": "Bosnia & Herzegovina",
+    "countryCode": "BA",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/sarajevo sarajevo bosnia & herzegovina ba europe"
+  },
+  {
+    "timezone": "Europe/Saratov",
+    "city": "Saratov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "aliases": [
+      "Europe",
+      "MSK+01 - Saratov"
+    ],
+    "searchText": "europe/saratov saratov russia ru europe msk+01 - saratov"
+  },
+  {
+    "timezone": "America/Scoresbysund",
+    "city": "Scoresbysund",
+    "country": "Greenland",
+    "countryCode": "GL",
+    "aliases": [
+      "America",
+      "Scoresbysund/Ittoqqortoormiit"
+    ],
+    "searchText": "america/scoresbysund scoresbysund greenland gl america scoresbysund/ittoqqortoormiit"
+  },
+  {
+    "timezone": "Asia/Seoul",
+    "city": "Seoul",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/seoul seoul south korea kr asia"
+  },
+  {
+    "timezone": "Asia/Shanghai",
+    "city": "Shanghai",
+    "country": "China",
+    "countryCode": "CN",
+    "aliases": [
+      "Asia",
+      "Beijing Time"
+    ],
+    "searchText": "asia/shanghai shanghai china cn asia beijing time"
+  },
+  {
+    "timezone": "Europe/Simferopol",
+    "city": "Simferopol",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "aliases": [
+      "Europe",
+      "Crimea"
+    ],
+    "searchText": "europe/simferopol simferopol ukraine ua europe crimea"
+  },
+  {
+    "timezone": "Asia/Singapore",
+    "city": "Singapore",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "aliases": [
+      "Asia"
+    ],
+    "searchText": "asia/singapore singapore singapore sg asia"
+  },
+  {
+    "timezone": "America/Sitka",
+    "city": "Sitka",
+    "country": "United States",
+    "countryCode": "US",
+    "aliases": [
+      "America",
+      "Alaska - Sitka area"
+    ],
+    "searchText": "america/sitka sitka united states us america alaska - sitka area"
+  },
+  {
+    "timezone": "Europe/Skopje",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "countryCode": "MK",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/skopje skopje north macedonia mk europe"
+  },
+  {
+    "timezone": "Europe/Sofia",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "aliases": [
+      "Europe"
+    ],
+    "searchText": "europe/sofia sofia bulgaria bg europe"
+  }
+]
